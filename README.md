@@ -1,6 +1,6 @@
 # Policy Table Issue
 
-A React project with Carbon Design System (CDS) table component.
+A React project with Cisco Design System (CDS) table component.
 
 ## Setup
 
