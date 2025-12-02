@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { createRoot } from 'react-dom/client';
 import { CDSFlex } from '@ciscodesignsystems/cds-react-flex/injected';
 import { CDSTable } from '@ciscodesignsystems/cds-react-table/injected';
@@ -14,10 +14,13 @@ function App() {
         <h2>Policy Management</h2>
             <CDSCard status="default">
                 <CDSTable
-                    enableColumnResizing={true}
-                    columnResizeMode="onChange"
                     columns={POLICY_TABLE_COLUMNS}
                     data={rawData}
+                    // column sorting
+                    enableSortColumns={true}
+                    // column resizing
+                    enableColumnResizing={true}
+                    columnResizeMode="onChange"
                 />
             </CDSCard>
         </CDSFlex>
