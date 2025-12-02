@@ -48,6 +48,22 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@ciscodesignsystems/cds-react-breadcrumb@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-breadcrumb@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-breadcrumb%2F-%2F%40ciscodesignsystems%2Fcds-react-breadcrumb-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-dropdown": 1.8.7
+    "@ciscodesignsystems/cds-react-tooltip": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/b159ac622cf28548744b712a07531d19f00aef123a37b0fb81477eb8c5fb340517000c250ebcd879a5ed5f31d534616b538a61f5d1752886e58cb78676e256cb
+  languageName: node
+  linkType: hard
+
 "@ciscodesignsystems/cds-react-button@npm:1.8.7":
   version: 1.8.7
   resolution: "@ciscodesignsystems/cds-react-button@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-button%2F-%2F%40ciscodesignsystems%2Fcds-react-button-1.8.7.tgz"
@@ -194,6 +210,40 @@ __metadata:
     react: ">=16.14.0"
     react-dom: ">=16.14.0"
   checksum: 10c0/ec2e34ed239235939a11bf801ce4607655312c3bd4820c38a9685949e862066f4b0cc5a6b5997ff4f11ad193bd7a89081e4788d66ed477bece40c39e9597206a
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-label@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-label@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-text": 1.8.7
+    "@ciscodesignsystems/cds-react-tooltip": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/2bbc83b91dd1cde955c56c4b08a411980b03d6597d16df4fe6abc9e396834661d334e5d6419d86e465a1c2645dc31fc5d56a760d2a720a3bdd68040b02245955
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-notification@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-notification@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+    framer-motion: "npm:^6.5.1"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-icons": 1.8.7
+    "@ciscodesignsystems/cds-react-text": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/bfc229574178fd5103c9049ab2931ff2dcfa18e6e346271656539b70d9e0a65e55c1781cdfee33658e5957421bfb5e7fe859b78b1d02b6badf1135797749b5c1
   languageName: node
   linkType: hard
 
@@ -3582,6 +3632,7 @@ __metadata:
     "@ciscodesignsystems/cds-component-types": "npm:1.8.7"
     "@ciscodesignsystems/cds-component-utilities": "npm:1.8.7"
     "@ciscodesignsystems/cds-magnetic-theme-web": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-breadcrumb": "npm:1.8.7"
     "@ciscodesignsystems/cds-react-button": "npm:1.8.7"
     "@ciscodesignsystems/cds-react-card": "npm:1.8.7"
     "@ciscodesignsystems/cds-react-checkbox": "npm:1.8.7"
@@ -3593,6 +3644,8 @@ __metadata:
     "@ciscodesignsystems/cds-react-flex": "npm:1.8.7"
     "@ciscodesignsystems/cds-react-heading": "npm:1.8.7"
     "@ciscodesignsystems/cds-react-icons": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-label": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-notification": "npm:1.8.7"
     "@ciscodesignsystems/cds-react-pagination": "npm:1.8.7"
     "@ciscodesignsystems/cds-react-popover": "npm:1.8.7"
     "@ciscodesignsystems/cds-react-progress-bar": "npm:1.8.7"
