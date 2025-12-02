@@ -1,21 +1,25 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { createRoot } from 'react-dom/client';
+import { CDSFlex } from '@ciscodesignsystems/cds-react-flex/injected';
 import { CDSTable } from '@ciscodesignsystems/cds-react-table/injected';
+import { CDSCard } from '@ciscodesignsystems/cds-react-card/injected';
 import { POLICY_TABLE_COLUMNS } from './data/tableColumns';
 import rawData from './data/policyData.json';
 
 import './index.scss';
 
 function App() {
-  return (
-    <div>
-      <h2>Policy Management</h2>
-      <CDSTable
-        columns={POLICY_TABLE_COLUMNS}
-        data={rawData}
-      />
-    </div>
-  );
+    return (
+        <CDSFlex direction="column" gap="medium">
+        <h2>Policy Management</h2>
+            <CDSCard status="default">
+                <CDSTable
+                    columns={POLICY_TABLE_COLUMNS}
+                    data={rawData}
+                />
+            </CDSCard>
+        </CDSFlex>
+    );
 }
 
 const container = document.getElementById('root');
