@@ -14,6 +14,8 @@ function App() {
         <h2>Policy Management</h2>
             <CDSCard status="default">
                 <CDSTable
+                    enableColumnResizing={true}
+                    columnResizeMode="onChange"
                     columns={POLICY_TABLE_COLUMNS}
                     data={rawData}
                 />
