@@ -1,6 +1,22 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
-import App from './App';
+import { CDSTable } from '@ciscodesignsystems/cds-react-table/injected';
+import { POLICY_TABLE_COLUMNS } from './data/tableColumns';
+import rawData from './data/policyData.json';
+
+import './index.scss';
+
+function App() {
+  return (
+    <div>
+      <h2>Policy Management</h2>
+      <CDSTable
+        columns={POLICY_TABLE_COLUMNS}
+        data={rawData}
+      />
+    </div>
+  );
+}
 
 const container = document.getElementById('root');
 const root = createRoot(container);

@@ -12,6 +12,454 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@ciscodesignsystems/cds-component-types@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-component-types@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-types%2F-%2F%40ciscodesignsystems%2Fcds-component-types-1.8.7.tgz"
+  dependencies:
+    "@nivo/core": "npm:^0.88.0"
+    "@nivo/legends": "npm:^0.88.0"
+    "@nivo/line": "npm:^0.88.0"
+  peerDependencies:
+    react: ">=16.14.0"
+  checksum: 10c0/1f222a3ed46c79d6e451b6ee352eb4fc5305b2572e2c3ea079c375d058da84ab28b5bb1bfff8b524195e8fc6add3aeb001521de870e612bc0b1b2850ff150642
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-component-utilities@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-component-utilities@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"
+  dependencies:
+    "@nivo/line": "npm:^0.88.0"
+    "@react-aria/utils": "npm:^3.18.0"
+    classnames: "npm:^2.3.2"
+    ramda: "npm:^0.29.0"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/464c1832e63b9e35edeff83f90d23453a318a545bde4b57a0b5f3fd874a09e0fd74de8742b6404ae829091828960dcfd29860ec9863cf79b2dd9c1e73e4e4bb6
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-magnetic-theme-web@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-magnetic-theme-web@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-magnetic-theme-web%2F-%2F%40ciscodesignsystems%2Fcds-magnetic-theme-web-1.8.7.tgz"
+  checksum: 10c0/66bb13fd25b19c691d38f610865243f36c9c8d24078295b6936f1be0966eebbaabe7ab4b495095f5d99199133c69052afaa60cfa658634c7351108d8b42354ee
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-breadcrumb@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-breadcrumb@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-breadcrumb%2F-%2F%40ciscodesignsystems%2Fcds-react-breadcrumb-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-dropdown": 1.8.7
+    "@ciscodesignsystems/cds-react-tooltip": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/b159ac622cf28548744b712a07531d19f00aef123a37b0fb81477eb8c5fb340517000c250ebcd879a5ed5f31d534616b538a61f5d1752886e58cb78676e256cb
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-button@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-button@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-button%2F-%2F%40ciscodesignsystems%2Fcds-react-button-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-spinner": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/dced3fa2a31e267ded782e4beab9e9d32c116b51e1552ce82dda4814331cdd061c2364ace7ca9ae81fce16a9a4cbb54c4923c92d703a2ffece0f5d660fe3dfa2
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-card@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-card@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-card%2F-%2F%40ciscodesignsystems%2Fcds-react-card-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/10c9979b2c1d4fd52061ac3ef459bbd67e0f8bf95882d6ba525bb477571a4bb5aadd5cca7ab597ad1b6799fda104d2229028521e9a21025903f3c28c595926cb
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-checkbox@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-checkbox@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-checkbox%2F-%2F%40ciscodesignsystems%2Fcds-react-checkbox-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/2ccdd8798cc33b06291fda0f157c2b8194ac4e333b00de9f63f43efc563621735aea0367a5f7b81ee6d1e579b949f1ec785c476c21ef930cafe0ad5721ee35e7
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-collapse@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-collapse@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-collapse%2F-%2F%40ciscodesignsystems%2Fcds-react-collapse-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+    framer-motion: "npm:^6.5.1"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/3dabfbda7a6093c1affbced6442974bab5554e3ce9b083db643f827ab8265dc163c3a4d3587005a6b36fc4056a94939e53963e27a63c23b6069f46536596ba55
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-container@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-container@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-container%2F-%2F%40ciscodesignsystems%2Fcds-react-container-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/a00d4096279c4edcbba0ee35c3abf65b4a46d9cbfa8342b6a5a63adaf270af9cc364fbaf452faba94f35e608e09218ae8d454aaa7a43411615ecdd1b697c30da
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-divider@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-divider@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-divider%2F-%2F%40ciscodesignsystems%2Fcds-react-divider-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/7d7318d58a0bd7c1b830674776ee4522b2a93ce6281a92559e7bb3418a2194c2b7d267358d18adbcdb37b22d887915e07b1057e7a4fd7d49ca520772943d6aed
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-drawer@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-drawer@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-drawer%2F-%2F%40ciscodesignsystems%2Fcds-react-drawer-1.8.7.tgz"
+  dependencies:
+    "@floating-ui/react": "npm:0.27.4"
+    "@phosphor-icons/react": "npm:^2.1.8"
+    framer-motion: "npm:^6.5.1"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/fcf57dfa3f03ad7633b5f5b6698714fb26d2b97438537cd7bd5c775bd9ba12decc4f4e6b73de59b43e5577ebb6d6338bd85286efdd750d5f9539604fec00a9eb
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-dropdown@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-dropdown@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-dropdown%2F-%2F%40ciscodesignsystems%2Fcds-react-dropdown-1.8.7.tgz"
+  dependencies:
+    "@floating-ui/react": "npm:0.27.4"
+    "@phosphor-icons/react": "npm:^2.1.8"
+    framer-motion: "npm:^6.5.1"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/7c6e35ff0320e45931eedfe8797ce1de2657f0c1f3bd4bf7a2416b893d3cd357c3e0482b063be0e03fb2776ab1cba5a2888e4d47e0498bc4e792ac8414dbe8fe
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-empty-state@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-empty-state@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-empty-state%2F-%2F%40ciscodesignsystems%2Fcds-react-empty-state-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-icons": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/72fc064ee0bb0575b1793e08b79c58aabe686f18c3a6cc0f77fb6caa5f50654ef9b61a648d46e5d0006da5480b842a851723f61f11d6df25805ed2f195b75656
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-filter-bar@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-filter-bar@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-filter-bar%2F-%2F%40ciscodesignsystems%2Fcds-react-filter-bar-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-search": 1.8.7
+    "@ciscodesignsystems/cds-react-text": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/e156205e6da16d13c38941d3ff913e1cf945ea356e3c46ca7744c1711ef7bec86b5956f5b546c9309a9944870053786b26d21347367975ca69e9e12903538298
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-flex@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-flex@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-flex%2F-%2F%40ciscodesignsystems%2Fcds-react-flex-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/581ab36e9c0615f918e7ea236348f3c3c3342e01c7eb1765d3fa997e5a774899ecd9d1599ef10880528840652bc7dba8857fc92f7721ce865e403f5eb4c0edff
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-heading@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-heading@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-heading%2F-%2F%40ciscodesignsystems%2Fcds-react-heading-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/c79ca3727139f9ee3439228141e4f395dcce57270939b7a7166cac58ae8dfe341d9cfc5868f59e9a38bed72225c1f6aa66415176b360ad50db3886e46027a9a9
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-icons@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-icons@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-icons%2F-%2F%40ciscodesignsystems%2Fcds-react-icons-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/ec2e34ed239235939a11bf801ce4607655312c3bd4820c38a9685949e862066f4b0cc5a6b5997ff4f11ad193bd7a89081e4788d66ed477bece40c39e9597206a
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-label@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-label@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-text": 1.8.7
+    "@ciscodesignsystems/cds-react-tooltip": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/2bbc83b91dd1cde955c56c4b08a411980b03d6597d16df4fe6abc9e396834661d334e5d6419d86e465a1c2645dc31fc5d56a760d2a720a3bdd68040b02245955
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-link@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-link@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-link%2F-%2F%40ciscodesignsystems%2Fcds-react-link-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/1aa345f810c620925bd7acaa78cb4786a20852524960d055b3e8e0ea7b6ec02405583e0ece9d118ffd12f29e1a8e7ebc12fb289ec8ff3d66e8ee2d2efd756ae4
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-modal@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-modal@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-modal%2F-%2F%40ciscodesignsystems%2Fcds-react-modal-1.8.7.tgz"
+  dependencies:
+    framer-motion: "npm:^6.5.1"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/cc6b3b4a9374b82d3a8af354f96fbd9c5170d0983a928627c190d3ea110e0e07e241e592b9f0551ee8aa67a94bc4437888b891c6f320f1569a27436b6294776c
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-notification@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-notification@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+    framer-motion: "npm:^6.5.1"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-icons": 1.8.7
+    "@ciscodesignsystems/cds-react-text": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/bfc229574178fd5103c9049ab2931ff2dcfa18e6e346271656539b70d9e0a65e55c1781cdfee33658e5957421bfb5e7fe859b78b1d02b6badf1135797749b5c1
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-pagination@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-pagination@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-pagination%2F-%2F%40ciscodesignsystems%2Fcds-react-pagination-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-select": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/12a901d301df33ff944daa8bdfd5342e8e1bbb917fe61f8978055193ae94f4c4de8107aac4fb8bcafdecabd246247fc10af08267b3ef207494a66ffb1528877b
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-popover@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-popover@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-popover%2F-%2F%40ciscodesignsystems%2Fcds-react-popover-1.8.7.tgz"
+  dependencies:
+    "@floating-ui/react": "npm:0.27.4"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/cad652b24954924c33891243475750afc43663c2781a901dc8939d66c9203eaec4fc0118462cce491a2bb3a3b449148df93f5e0f06bf870e268e777215716c8d
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-progress-bar@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-progress-bar@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-progress-bar%2F-%2F%40ciscodesignsystems%2Fcds-react-progress-bar-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-icons": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/26acb17806cd9e6fa3261b0492174c4e33c51b3f46bc4f9c80495bddf95b0908127c99fade304b8ab0ef5e587b7642ba5dd8c12f22d6bec2a0ffda27591af67b
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-radio@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-radio@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-radio%2F-%2F%40ciscodesignsystems%2Fcds-react-radio-1.8.7.tgz"
+  dependencies:
+    uuid: "npm:^9.0.0"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/e669c8ed5bdab94ab2d4ea79b1f543aa88cdd307228b8ec64a073c1b4aa17d5b8588a90e19886913cfc3a82be63f031d2b1be387686cccf251a66a2606e44f3b
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-search@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-search@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-search%2F-%2F%40ciscodesignsystems%2Fcds-react-search-1.8.7.tgz"
+  dependencies:
+    "@floating-ui/react": "npm:0.27.4"
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-divider": 1.8.7
+    "@ciscodesignsystems/cds-react-empty-state": 1.8.7
+    "@ciscodesignsystems/cds-react-text": 1.8.7
+    "@ciscodesignsystems/cds-react-text-input": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/d922d92afc3667669cea8ff43c0a30d69b27f2ed4671e4f44c8249ea31f1521fb7f951e6332efa17e3dbd62ef6dad099ab9fc50df60a890517af3381b62003ff
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-select@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-select@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-select%2F-%2F%40ciscodesignsystems%2Fcds-react-select-1.8.7.tgz"
+  dependencies:
+    "@floating-ui/react": "npm:0.27.4"
+    "@phosphor-icons/react": "npm:^2.1.8"
+    react-fast-compare: "npm:^3.2.2"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-breadcrumb": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-checkbox": 1.8.7
+    "@ciscodesignsystems/cds-react-empty-state": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-icons": 1.8.7
+    "@ciscodesignsystems/cds-react-label": 1.8.7
+    "@ciscodesignsystems/cds-react-notification": 1.8.7
+    "@ciscodesignsystems/cds-react-popover": 1.8.7
+    "@ciscodesignsystems/cds-react-spinner": 1.8.7
+    "@ciscodesignsystems/cds-react-tooltip": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/e620ca54d06b3673f43196bb0eea79bcdbf9ad827bc94d48153cde31c5775c8391912b23bcdbf8eb2724ad4ab337892cdc443f12c63ac0daa68ee107fceec287
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-skeleton@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-skeleton@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-skeleton%2F-%2F%40ciscodesignsystems%2Fcds-react-skeleton-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/53efd35d170c62200984d3dc0f51b37a63a86f3ab14a14dfda5583ba03267471d3b2e2e273598ed7c3a25cabfc41bac206d2a539126714f86609c76886a53165
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-spinner@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-spinner@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-spinner%2F-%2F%40ciscodesignsystems%2Fcds-react-spinner-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-icons": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/c3c3c9e0058f10faabdc1912bf6434316b39ef99f854b969fe0adaa0fe88482484950bc52658790d5209d1dedd755f24376388fff2ce9f06d3e03f4ee154c821
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-stepper@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-stepper@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-stepper%2F-%2F%40ciscodesignsystems%2Fcds-react-stepper-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-sticky-bar": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/1ac245c8c77a8395c0787b7e1d46495f823b82d3b1c4264178b29ccf4394a2e25abb5fc1556fd41f68e7ecf63f0c08ca4b4a95584975786891707c2a477bfb29
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-tab@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-tab@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-tab%2F-%2F%40ciscodesignsystems%2Fcds-react-tab-1.8.7.tgz"
+  dependencies:
+    "@floating-ui/react": "npm:0.27.4"
+    "@phosphor-icons/react": "npm:^2.1.8"
+    framer-motion: "npm:^6.5.1"
+    react-innertext: "npm:^1.1.5"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-text": 1.8.7
+    "@ciscodesignsystems/cds-react-tooltip": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/32a1c96487ec73345243373b8281aae4c3c575b2ec0798b5325e666a41c0d64b91e93399f637ffa882f93ed559fec5a6b0b3cc004844b1634ce89f5fa5b8403c
+  languageName: node
+  linkType: hard
+
 "@ciscodesignsystems/cds-react-table@npm:1.8.7":
   version: 1.8.7
   resolution: "@ciscodesignsystems/cds-react-table@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-table%2F-%2F%40ciscodesignsystems%2Fcds-react-table-1.8.7.tgz"
@@ -48,6 +496,143 @@ __metadata:
     react: ">=16.14.0"
     react-dom: ">=16.14.0"
   checksum: 10c0/feb7067bc0be4b14b8f98f1cd1ebaf88c5b407ac14d05cdc67ea44b0b11bec29043bcecfc2ee98ba7d56ff4dae2c5066a093c3a3ea26276464adea39b0b9c2b3
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-tag@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-tag@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-tag%2F-%2F%40ciscodesignsystems%2Fcds-react-tag-1.8.7.tgz"
+  dependencies:
+    "@floating-ui/react": "npm:0.27.4"
+    "@phosphor-icons/react": "npm:^2.1.8"
+    framer-motion: "npm:^6.5.1"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-checkbox": 1.8.7
+    "@ciscodesignsystems/cds-react-icons": 1.8.7
+    "@ciscodesignsystems/cds-react-popover": 1.8.7
+    "@ciscodesignsystems/cds-react-tooltip": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/23a45fb834e011ce5d86d4601e49757f19fc4eb093c55e4da3c26922717f6f89ec639dab55b32322413446ff9938ebcd311a087f738aee3665dcb5c247e780d3
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-text-input@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-text-input@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-text-input%2F-%2F%40ciscodesignsystems%2Fcds-react-text-input-1.8.7.tgz"
+  dependencies:
+    decimal.js: "npm:^10.4.3"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-label": 1.8.7
+    "@ciscodesignsystems/cds-react-text": 1.8.7
+    "@phosphor-icons/react": ^2.1.8
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/2dc5c091a07f3488b10e4c07afbc256e3a2443673ff567daf17ad9fded91a2708a52b6b76ad2adf85c977cfd4ada6a4963180572e683253242bdd26fe6d06a87
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-text@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-text@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-text%2F-%2F%40ciscodesignsystems%2Fcds-react-text-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/9b9bf788c13f9a10e58349ac8fac68e4387e59a2cf2c8b2180ea50ced997b60e33459b42c0ef89b6c0488b63f596fb7f7b805560fdcba30913ae5c2d5cecd74b
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-textarea@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-textarea@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-textarea%2F-%2F%40ciscodesignsystems%2Fcds-react-textarea-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-notification": 1.8.7
+    "@ciscodesignsystems/cds-react-tooltip": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/5bc807ca69bf66ea7719a3e6a9fa77ec98b5c553163728c69fad970f4c10ba6f9161be80b7ea1edbae193c46770fbce8a04933aeea5e4e7533dcb02675cd3436
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-theme-provider@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-theme-provider@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-theme-provider%2F-%2F%40ciscodesignsystems%2Fcds-react-theme-provider-1.8.7.tgz"
+  peerDependencies:
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/6c135d958c10bb7e56a0bf8c78f37af7eadc5404949cc9e817b6dda5a20208a812ee7a38aef46bdf5f67c24a09980c6ba3209ec558780ff897104e2c1889bdca
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-toaster@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-toaster@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-toaster%2F-%2F%40ciscodesignsystems%2Fcds-react-toaster-1.8.7.tgz"
+  dependencies:
+    framer-motion: "npm:6.5.1"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-notification": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/b9105319b012b1563b5b9f7240fef1e8ea317d23c6ed9a4ca2ae7e35bcc031a1001786907ab59d090dae42baa29932095aabff71f91ef8084a1ebf1555140b74
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-toggle@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-toggle@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-toggle%2F-%2F%40ciscodesignsystems%2Fcds-react-toggle-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-text": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/ee4fe6f98b234fa797d8e99f587cd2b2cd87210b39caab97e0a392fd19db012ddbe83523425b8ff9f4d0926c510c1f42857f5d154f77fbf4250b41547f28e8d9
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-tooltip@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-tooltip@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-tooltip%2F-%2F%40ciscodesignsystems%2Fcds-react-tooltip-1.8.7.tgz"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-popover": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/3eeb994df95be097f39ca33cc4cd153057781ead13371d501810e79e27e1ca700b34166e828398c83d55beb382581b1a3383830ca998aacd7e0e169a2d2f5729
+  languageName: node
+  linkType: hard
+
+"@ciscodesignsystems/cds-react-transfer@npm:1.8.7":
+  version: 1.8.7
+  resolution: "@ciscodesignsystems/cds-react-transfer@npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-transfer%2F-%2F%40ciscodesignsystems%2Fcds-react-transfer-1.8.7.tgz"
+  dependencies:
+    "@phosphor-icons/react": "npm:^2.1.8"
+    framer-motion: "npm:6.5.1"
+  peerDependencies:
+    "@ciscodesignsystems/cds-component-types": 1.8.7
+    "@ciscodesignsystems/cds-component-utilities": 1.8.7
+    "@ciscodesignsystems/cds-react-button": 1.8.7
+    "@ciscodesignsystems/cds-react-checkbox": 1.8.7
+    "@ciscodesignsystems/cds-react-dropdown": 1.8.7
+    "@ciscodesignsystems/cds-react-empty-state": 1.8.7
+    "@ciscodesignsystems/cds-react-flex": 1.8.7
+    "@ciscodesignsystems/cds-react-text-input": 1.8.7
+    react: ">=16.14.0"
+    react-dom: ">=16.14.0"
+  checksum: 10c0/013bccdf0f3a5dba8571831386bb9cd26b1086ba16f67e8063a84e1738099b25ebabfaec9067ec5bed09cd7fb13a05089af6b4bc4f440606313d4bc5b1f91a8d
   languageName: node
   linkType: hard
 
@@ -110,6 +695,74 @@ __metadata:
   peerDependencies:
     react: ">=16.8.0"
   checksum: 10c0/9aa90526f3e3fd567b5acc1b625a63177b9e8d00e7e50b2bd0e08fa2bf4dba7e19529777e001fdb8f89a7ce69f30b190c8364d390212634e0afdfa8c395e85a0
+  languageName: node
+  linkType: hard
+
+"@emotion/is-prop-valid@npm:^0.8.2":
+  version: 0.8.8
+  resolution: "@emotion/is-prop-valid@npm:0.8.8"
+  dependencies:
+    "@emotion/memoize": "npm:0.7.4"
+  checksum: 10c0/f6be625f067c7fa56a12a4edaf090715616dc4fc7803c87212831f38c969350107b9709b1be54100e53153b18d9fa068eb4bf4f9ac66a37a8edf1bac9b64e279
+  languageName: node
+  linkType: hard
+
+"@emotion/memoize@npm:0.7.4":
+  version: 0.7.4
+  resolution: "@emotion/memoize@npm:0.7.4"
+  checksum: 10c0/b2376548fc147b43afd1ff005a80a1a025bd7eb4fb759fdb23e96e5ff290ee8ba16628a332848d600fb91c3cdc319eee5395fa33d8875e5d5a8c4ce18cddc18e
+  languageName: node
+  linkType: hard
+
+"@floating-ui/core@npm:^1.7.3":
+  version: 1.7.3
+  resolution: "@floating-ui/core@npm:1.7.3"
+  dependencies:
+    "@floating-ui/utils": "npm:^0.2.10"
+  checksum: 10c0/edfc23800122d81df0df0fb780b7328ae6c5f00efbb55bd48ea340f4af8c5b3b121ceb4bb81220966ab0f87b443204d37105abdd93d94846468be3243984144c
+  languageName: node
+  linkType: hard
+
+"@floating-ui/dom@npm:^1.7.4":
+  version: 1.7.4
+  resolution: "@floating-ui/dom@npm:1.7.4"
+  dependencies:
+    "@floating-ui/core": "npm:^1.7.3"
+    "@floating-ui/utils": "npm:^0.2.10"
+  checksum: 10c0/da6166c25f9b0729caa9f498685a73a0e28251613b35d27db8de8014bc9d045158a23c092b405321a3d67c2064909b6e2a7e6c1c9cc0f62967dca5779f5aef30
+  languageName: node
+  linkType: hard
+
+"@floating-ui/react-dom@npm:^2.1.2":
+  version: 2.1.6
+  resolution: "@floating-ui/react-dom@npm:2.1.6"
+  dependencies:
+    "@floating-ui/dom": "npm:^1.7.4"
+  peerDependencies:
+    react: ">=16.8.0"
+    react-dom: ">=16.8.0"
+  checksum: 10c0/6654834a8e73ecbdbc6cad2ad8f7abc698ac7c1800ded4d61113525c591c03d2e3b59d3cf9205859221465ea38c87af4f9e6e204703c5b7a7e85332d1eef2e18
+  languageName: node
+  linkType: hard
+
+"@floating-ui/react@npm:0.27.4":
+  version: 0.27.4
+  resolution: "@floating-ui/react@npm:0.27.4"
+  dependencies:
+    "@floating-ui/react-dom": "npm:^2.1.2"
+    "@floating-ui/utils": "npm:^0.2.9"
+    tabbable: "npm:^6.0.0"
+  peerDependencies:
+    react: ">=17.0.0"
+    react-dom: ">=17.0.0"
+  checksum: 10c0/d1456de8e72b5127c76f59ec3f9a53f216125bd9146eea82adf1df24eea884039522477c98fe65cb095be77b4c3c20f91c3433a70c9243e1a4714a1055470f77
+  languageName: node
+  linkType: hard
+
+"@floating-ui/utils@npm:^0.2.10, @floating-ui/utils@npm:^0.2.9":
+  version: 0.2.10
+  resolution: "@floating-ui/utils@npm:0.2.10"
+  checksum: 10c0/e9bc2a1730ede1ee25843937e911ab6e846a733a4488623cd353f94721b05ec2c9ec6437613a2ac9379a94c2fd40c797a2ba6fa1df2716f5ce4aa6ddb1cf9ea4
   languageName: node
   linkType: hard
 
@@ -207,6 +860,71 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@motionone/animation@npm:^10.12.0":
+  version: 10.18.0
+  resolution: "@motionone/animation@npm:10.18.0"
+  dependencies:
+    "@motionone/easing": "npm:^10.18.0"
+    "@motionone/types": "npm:^10.17.1"
+    "@motionone/utils": "npm:^10.18.0"
+    tslib: "npm:^2.3.1"
+  checksum: 10c0/83c01ab8ecf5fae221e5012116c4c49d4473ba88ba22197e1d8c1e39364c5c6b9c5271e57ae716fd21f92314d15c63788c48d0a30872ee8d72337e1d98b46834
+  languageName: node
+  linkType: hard
+
+"@motionone/dom@npm:10.12.0":
+  version: 10.12.0
+  resolution: "@motionone/dom@npm:10.12.0"
+  dependencies:
+    "@motionone/animation": "npm:^10.12.0"
+    "@motionone/generators": "npm:^10.12.0"
+    "@motionone/types": "npm:^10.12.0"
+    "@motionone/utils": "npm:^10.12.0"
+    hey-listen: "npm:^1.0.8"
+    tslib: "npm:^2.3.1"
+  checksum: 10c0/1af6cd8d8518ebbd90d74f15443ad94d7d03bf9e7e1455a5cb6768a53ba8dac6906ca121e9c1f42b8d53a8ab7c19d14e4731c10231b5dc7102628f32659faea2
+  languageName: node
+  linkType: hard
+
+"@motionone/easing@npm:^10.18.0":
+  version: 10.18.0
+  resolution: "@motionone/easing@npm:10.18.0"
+  dependencies:
+    "@motionone/utils": "npm:^10.18.0"
+    tslib: "npm:^2.3.1"
+  checksum: 10c0/0adf9b7086b0f569d28886890cc0725a489285f2debfcaf27c1c15dfef5736c9f4207cfda14c71b3275f8163777320cb7ff48ad263c7f4ccd31e12a5afc1a952
+  languageName: node
+  linkType: hard
+
+"@motionone/generators@npm:^10.12.0":
+  version: 10.18.0
+  resolution: "@motionone/generators@npm:10.18.0"
+  dependencies:
+    "@motionone/types": "npm:^10.17.1"
+    "@motionone/utils": "npm:^10.18.0"
+    tslib: "npm:^2.3.1"
+  checksum: 10c0/7ed7dda5ac58cd3e8dd347b5539d242d96e02ee16fef921c8d14295a806e6bc429a15291461ec078977bd5f6162677225addd707ca79f808e65bc3599c45c0e9
+  languageName: node
+  linkType: hard
+
+"@motionone/types@npm:^10.12.0, @motionone/types@npm:^10.17.1":
+  version: 10.17.1
+  resolution: "@motionone/types@npm:10.17.1"
+  checksum: 10c0/f7b16cd4f0feda0beac10173afa6de7384722f9f24767f78b7aa90f15b8a89d584073a64387b015a8e015a962fa4b47a8ce23621f47708a08676b12bb0d43bbb
+  languageName: node
+  linkType: hard
+
+"@motionone/utils@npm:^10.12.0, @motionone/utils@npm:^10.18.0":
+  version: 10.18.0
+  resolution: "@motionone/utils@npm:10.18.0"
+  dependencies:
+    "@motionone/types": "npm:^10.17.1"
+    hey-listen: "npm:^1.0.8"
+    tslib: "npm:^2.3.1"
+  checksum: 10c0/db57dbb6a131fab36dc1eb4e1f3a4575ca97563221663adce54c138de1e1a9eaf4a4a51ddf99fdab0341112159e0190b35cdeddfdbd08ba3ad1e35886a5324bb
+  languageName: node
+  linkType: hard
+
 "@msgpackr-extract/msgpackr-extract-darwin-arm64@npm:3.0.3":
   version: 3.0.3
   resolution: "@msgpackr-extract/msgpackr-extract-darwin-arm64@npm:3.0.3"
@@ -246,6 +964,156 @@ __metadata:
   version: 3.0.3
   resolution: "@msgpackr-extract/msgpackr-extract-win32-x64@npm:3.0.3"
   conditions: os=win32 & cpu=x64
+  languageName: node
+  linkType: hard
+
+"@nivo/annotations@npm:0.88.0":
+  version: 0.88.0
+  resolution: "@nivo/annotations@npm:0.88.0"
+  dependencies:
+    "@nivo/colors": "npm:0.88.0"
+    "@nivo/core": "npm:0.88.0"
+    "@react-spring/web": "npm:9.4.5 || ^9.7.2"
+    lodash: "npm:^4.17.21"
+  peerDependencies:
+    react: ">= 16.14.0 < 19.0.0"
+  checksum: 10c0/49752f022acd2a64ac912f072fe9854d2e51c9c1935a3c068dc0c3c3f344852afe22d86ada5e927a7e2766d88b6bb878f30f710288371d86ef386300ed5ee540
+  languageName: node
+  linkType: hard
+
+"@nivo/axes@npm:0.88.0":
+  version: 0.88.0
+  resolution: "@nivo/axes@npm:0.88.0"
+  dependencies:
+    "@nivo/core": "npm:0.88.0"
+    "@nivo/scales": "npm:0.88.0"
+    "@react-spring/web": "npm:9.4.5 || ^9.7.2"
+    "@types/d3-format": "npm:^1.4.1"
+    "@types/d3-time-format": "npm:^2.3.1"
+    d3-format: "npm:^1.4.4"
+    d3-time-format: "npm:^3.0.0"
+  peerDependencies:
+    react: ">= 16.14.0 < 19.0.0"
+  checksum: 10c0/0a7c8c6a9cef8ae49d8a9526fc05f8fd6ac130ca1607850e2d1cd9d36a27377dd40e2b3412474b0cf7c0f8c40139a9f0afb2e756a9ece19070184e9eb7756eca
+  languageName: node
+  linkType: hard
+
+"@nivo/colors@npm:0.88.0":
+  version: 0.88.0
+  resolution: "@nivo/colors@npm:0.88.0"
+  dependencies:
+    "@nivo/core": "npm:0.88.0"
+    "@types/d3-color": "npm:^3.0.0"
+    "@types/d3-scale": "npm:^4.0.8"
+    "@types/d3-scale-chromatic": "npm:^3.0.0"
+    "@types/prop-types": "npm:^15.7.2"
+    d3-color: "npm:^3.1.0"
+    d3-scale: "npm:^4.0.2"
+    d3-scale-chromatic: "npm:^3.0.0"
+    lodash: "npm:^4.17.21"
+    prop-types: "npm:^15.7.2"
+  peerDependencies:
+    react: ">= 16.14.0 < 19.0.0"
+  checksum: 10c0/e52a69fc6fb942f30f053f02e4dd36c4ecdf1012446368b20a5c847f8eb3c2ecb70924505cb3041b0d72efb4f0c5edcb8322b009b7fa3f4934bf154bc7e45776
+  languageName: node
+  linkType: hard
+
+"@nivo/core@npm:0.88.0, @nivo/core@npm:^0.88.0":
+  version: 0.88.0
+  resolution: "@nivo/core@npm:0.88.0"
+  dependencies:
+    "@nivo/tooltip": "npm:0.88.0"
+    "@react-spring/web": "npm:9.4.5 || ^9.7.2"
+    "@types/d3-shape": "npm:^3.1.6"
+    d3-color: "npm:^3.1.0"
+    d3-format: "npm:^1.4.4"
+    d3-interpolate: "npm:^3.0.1"
+    d3-scale: "npm:^4.0.2"
+    d3-scale-chromatic: "npm:^3.0.0"
+    d3-shape: "npm:^3.2.0"
+    d3-time-format: "npm:^3.0.0"
+    lodash: "npm:^4.17.21"
+    prop-types: "npm:^15.7.2"
+  peerDependencies:
+    react: ">= 16.14.0 < 19.0.0"
+  checksum: 10c0/5dbc7f7b78ca502a0ec2bfcd459c20a6fba6bf1a4da19dbd31c50141ec0a2a6506bfde07bdd6f116ff6d96b9d4806de2b87c886ee8a0152eb4b9b1a337f2708c
+  languageName: node
+  linkType: hard
+
+"@nivo/legends@npm:0.88.0, @nivo/legends@npm:^0.88.0":
+  version: 0.88.0
+  resolution: "@nivo/legends@npm:0.88.0"
+  dependencies:
+    "@nivo/colors": "npm:0.88.0"
+    "@nivo/core": "npm:0.88.0"
+    "@types/d3-scale": "npm:^4.0.8"
+    d3-scale: "npm:^4.0.2"
+  peerDependencies:
+    react: ">= 16.14.0 < 19.0.0"
+  checksum: 10c0/5d798c9e907d488dcdb0fefaf6ebe72f484a17cb08368328f3ec9aded59ae48d21898d852b7e3639215cae38bdcc9561052426d4efca6106ac0f375f144e5ad2
+  languageName: node
+  linkType: hard
+
+"@nivo/line@npm:^0.88.0":
+  version: 0.88.0
+  resolution: "@nivo/line@npm:0.88.0"
+  dependencies:
+    "@nivo/annotations": "npm:0.88.0"
+    "@nivo/axes": "npm:0.88.0"
+    "@nivo/colors": "npm:0.88.0"
+    "@nivo/core": "npm:0.88.0"
+    "@nivo/legends": "npm:0.88.0"
+    "@nivo/scales": "npm:0.88.0"
+    "@nivo/tooltip": "npm:0.88.0"
+    "@nivo/voronoi": "npm:0.88.0"
+    "@react-spring/web": "npm:9.4.5 || ^9.7.2"
+    d3-shape: "npm:^3.2.0"
+  peerDependencies:
+    react: ">= 16.14.0 < 19.0.0"
+  checksum: 10c0/059347f6cfc4775ea7b16f450de35933db3a5391027e6bde9209802b86d9f0793639dee47040ef2ded51804d638553956a21dd086ff113ec830d40ef4daf0604
+  languageName: node
+  linkType: hard
+
+"@nivo/scales@npm:0.88.0":
+  version: 0.88.0
+  resolution: "@nivo/scales@npm:0.88.0"
+  dependencies:
+    "@types/d3-scale": "npm:^4.0.8"
+    "@types/d3-time": "npm:^1.1.1"
+    "@types/d3-time-format": "npm:^3.0.0"
+    d3-scale: "npm:^4.0.2"
+    d3-time: "npm:^1.0.11"
+    d3-time-format: "npm:^3.0.0"
+    lodash: "npm:^4.17.21"
+  checksum: 10c0/94b77daffb90bf5dd611d65c072719544407b7c44b0e5205c906b176ffd6f4fc94e75cc973e91d550cf6a87fdb303f7cc40926762e7d58d8354489501762dc9b
+  languageName: node
+  linkType: hard
+
+"@nivo/tooltip@npm:0.88.0":
+  version: 0.88.0
+  resolution: "@nivo/tooltip@npm:0.88.0"
+  dependencies:
+    "@nivo/core": "npm:0.88.0"
+    "@react-spring/web": "npm:9.4.5 || ^9.7.2"
+  peerDependencies:
+    react: ">= 16.14.0 < 19.0.0"
+  checksum: 10c0/1a5eef73875f7a87984055adffee5f804a1e1be92166c9799877a25ccd61768963b0ad80f603a0e9e5e43e4121bb11e9cce9123078a89e816d1bfae20e9b07bf
+  languageName: node
+  linkType: hard
+
+"@nivo/voronoi@npm:0.88.0":
+  version: 0.88.0
+  resolution: "@nivo/voronoi@npm:0.88.0"
+  dependencies:
+    "@nivo/core": "npm:0.88.0"
+    "@nivo/tooltip": "npm:0.88.0"
+    "@types/d3-delaunay": "npm:^6.0.4"
+    "@types/d3-scale": "npm:^4.0.8"
+    d3-delaunay: "npm:^6.0.4"
+    d3-scale: "npm:^4.0.2"
+  peerDependencies:
+    react: ">= 16.14.0 < 19.0.0"
+  checksum: 10c0/e49df7e4098534ecf655f8f787b2f9a01f741e08f1e5ae466bdc626859ec03c416edac6a9706ce5482a5024ff7359413cc960455138c7a2b47669aa747656305
   languageName: node
   linkType: hard
 
@@ -317,7 +1185,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@parcel/config-default@npm:2.16.1":
+"@parcel/config-default@npm:2.16.1, @parcel/config-default@npm:^2.16.1":
   version: 2.16.1
   resolution: "@parcel/config-default@npm:2.16.1"
   dependencies:
@@ -709,7 +1577,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@parcel/resolver-default@npm:2.16.1":
+"@parcel/resolver-default@npm:2.16.1, @parcel/resolver-default@npm:^2.16.1":
   version: 2.16.1
   resolution: "@parcel/resolver-default@npm:2.16.1"
   dependencies:
@@ -883,7 +1751,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@parcel/transformer-css@npm:2.16.1":
+"@parcel/transformer-css@npm:2.16.1, @parcel/transformer-css@npm:^2.16.1":
   version: 2.16.1
   resolution: "@parcel/transformer-css@npm:2.16.1"
   dependencies:
@@ -963,7 +1831,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@parcel/transformer-postcss@npm:2.16.1":
+"@parcel/transformer-postcss@npm:2.16.1, @parcel/transformer-postcss@npm:^2.16.1":
   version: 2.16.1
   resolution: "@parcel/transformer-postcss@npm:2.16.1"
   dependencies:
@@ -1007,6 +1875,17 @@ __metadata:
     "@parcel/utils": "npm:2.16.1"
     react-refresh: "npm:^0.16.0"
   checksum: 10c0/1fa20d32b6fc5600adf4cfc7b96e7fc34b322169334b25c1f684e16eb719d0e4fab130facdbd13b3ec88ab2ba920331d52f648ab50847f3f2cfcbc5a31197b7b
+  languageName: node
+  linkType: hard
+
+"@parcel/transformer-sass@npm:2.16.1":
+  version: 2.16.1
+  resolution: "@parcel/transformer-sass@npm:2.16.1"
+  dependencies:
+    "@parcel/plugin": "npm:2.16.1"
+    "@parcel/source-map": "npm:^2.1.1"
+    sass: "npm:^1.88.0"
+  checksum: 10c0/6cda1094598bc59a66c0fc677f7f54dd18f9a002ca4949a3b040ed2cf3445d76977c5578da5477759418e255a50022af34db971116fe37194f68c92b421a0441
   languageName: node
   linkType: hard
 
@@ -1150,7 +2029,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@parcel/watcher@npm:^2.0.7":
+"@parcel/watcher@npm:^2.0.7, @parcel/watcher@npm:^2.4.1":
   version: 2.5.1
   resolution: "@parcel/watcher@npm:2.5.1"
   dependencies:
@@ -1219,13 +2098,41 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@phosphor-icons/react@npm:^2.1.8":
+"@phosphor-icons/react@npm:^2.0.15, @phosphor-icons/react@npm:^2.1.8":
   version: 2.1.10
   resolution: "@phosphor-icons/react@npm:2.1.10"
   peerDependencies:
     react: ">= 16.8"
     react-dom: ">= 16.8"
   checksum: 10c0/9a469e1bdcabcd3db02eda13142d57be250847ebbeb82b33c8900580a6a23ed4f411dbb9b9deacef726ff3fa8ffc960c8868b518e448bd2cee654cedf3fa4bda
+  languageName: node
+  linkType: hard
+
+"@react-aria/ssr@npm:^3.9.10":
+  version: 3.9.10
+  resolution: "@react-aria/ssr@npm:3.9.10"
+  dependencies:
+    "@swc/helpers": "npm:^0.5.0"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
+  checksum: 10c0/44acb4c441d9c5d65aab94aa81fd8368413cf2958ab458582296dd78f6ba4783583f2311fa986120060e5c26b54b1f01e8910ffd17e4f41ccc5fc8c357d84089
+  languageName: node
+  linkType: hard
+
+"@react-aria/utils@npm:^3.18.0":
+  version: 3.31.0
+  resolution: "@react-aria/utils@npm:3.31.0"
+  dependencies:
+    "@react-aria/ssr": "npm:^3.9.10"
+    "@react-stately/flags": "npm:^3.1.2"
+    "@react-stately/utils": "npm:^3.10.8"
+    "@react-types/shared": "npm:^3.32.1"
+    "@swc/helpers": "npm:^0.5.0"
+    clsx: "npm:^2.0.0"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
+    react-dom: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
+  checksum: 10c0/a6b5c6b85a51fa9ca204f045f70d36a55e16b56b85141d556eaacb7b74c4c0915189f6d2baea06df59bdd2926dcca08c2313c98478dbb50ed8e59f9b6754735c
   languageName: node
   linkType: hard
 
@@ -1247,6 +2154,101 @@ __metadata:
   version: 4.0.2
   resolution: "@react-dnd/shallowequal@npm:4.0.2"
   checksum: 10c0/9a352fd176752e5d9c2797d598aca034b7829111ae0c992d80f40d5f068fcd6a039b1841c741dfa1ab67a36a00664310aec4f0ce216e4112f80875c9fe6fd8dc
+  languageName: node
+  linkType: hard
+
+"@react-spring/animated@npm:~9.7.5":
+  version: 9.7.5
+  resolution: "@react-spring/animated@npm:9.7.5"
+  dependencies:
+    "@react-spring/shared": "npm:~9.7.5"
+    "@react-spring/types": "npm:~9.7.5"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0
+  checksum: 10c0/f8c2473c60f39a878c7dd0fdfcfcdbc720521e1506aa3f63c9de64780694a0a73d5ccc535a5ccec3520ddb70a71cf43b038b32c18e99531522da5388c510ecd7
+  languageName: node
+  linkType: hard
+
+"@react-spring/core@npm:~9.7.5":
+  version: 9.7.5
+  resolution: "@react-spring/core@npm:9.7.5"
+  dependencies:
+    "@react-spring/animated": "npm:~9.7.5"
+    "@react-spring/shared": "npm:~9.7.5"
+    "@react-spring/types": "npm:~9.7.5"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0
+  checksum: 10c0/5bfd83dfe248cd91889f215f015d908c7714ef445740fd5afa054b27ebc7d5a456abf6c309e2459d9b5b436e78d6fda16b62b9601f96352e9130552c02270830
+  languageName: node
+  linkType: hard
+
+"@react-spring/rafz@npm:~9.7.5":
+  version: 9.7.5
+  resolution: "@react-spring/rafz@npm:9.7.5"
+  checksum: 10c0/8bdad180feaa9a0e870a513043a5e98a4e9b7292a9f887575b7e6fadab2677825bc894b7ff16c38511b35bfe6cc1072df5851c5fee64448d67551559578ca759
+  languageName: node
+  linkType: hard
+
+"@react-spring/shared@npm:~9.7.5":
+  version: 9.7.5
+  resolution: "@react-spring/shared@npm:9.7.5"
+  dependencies:
+    "@react-spring/rafz": "npm:~9.7.5"
+    "@react-spring/types": "npm:~9.7.5"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0
+  checksum: 10c0/0207eacccdedd918a2fc55e78356ce937f445ce27ad9abd5d3accba8f9701a39349b55115641dc2b39bb9d3a155b058c185b411d292dc8cc5686bfa56f73b94f
+  languageName: node
+  linkType: hard
+
+"@react-spring/types@npm:~9.7.5":
+  version: 9.7.5
+  resolution: "@react-spring/types@npm:9.7.5"
+  checksum: 10c0/85c05121853cacb64f7cf63a4855e9044635e1231f70371cd7b8c78bc10be6f4dd7c68f592f92a2607e8bb68051540989b4677a2ccb525dba937f5cd95dc8bc1
+  languageName: node
+  linkType: hard
+
+"@react-spring/web@npm:9.4.5 || ^9.7.2":
+  version: 9.7.5
+  resolution: "@react-spring/web@npm:9.7.5"
+  dependencies:
+    "@react-spring/animated": "npm:~9.7.5"
+    "@react-spring/core": "npm:~9.7.5"
+    "@react-spring/shared": "npm:~9.7.5"
+    "@react-spring/types": "npm:~9.7.5"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0
+    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
+  checksum: 10c0/bcd1e052e1b16341a12a19bf4515f153ca09d1fa86ff7752a5d02d7c4db58e8baf80e6283e64411f1e388c65340dce2254b013083426806b5dbae38bd151e53e
+  languageName: node
+  linkType: hard
+
+"@react-stately/flags@npm:^3.1.2":
+  version: 3.1.2
+  resolution: "@react-stately/flags@npm:3.1.2"
+  dependencies:
+    "@swc/helpers": "npm:^0.5.0"
+  checksum: 10c0/d86890ce662f04c7d8984e9560527f46c9779b97757abded9e1bf7e230a6900a0ea7a3e7c22534de8d2ff278abae194e4e4ad962d710f3b04c52a4e1011c2e5b
+  languageName: node
+  linkType: hard
+
+"@react-stately/utils@npm:^3.10.8":
+  version: 3.10.8
+  resolution: "@react-stately/utils@npm:3.10.8"
+  dependencies:
+    "@swc/helpers": "npm:^0.5.0"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
+  checksum: 10c0/a97cc292986e3eeb2ceb1626671ce60e8342a3ff35ab92bcfcb94bd6b28729836cc592e3fe4df2fba603e5fdd26291be77b7f60441920298c282bb93f424feba
+  languageName: node
+  linkType: hard
+
+"@react-types/shared@npm:^3.32.1":
+  version: 3.32.1
+  resolution: "@react-types/shared@npm:3.32.1"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0-rc.1 || ^18.0.0 || ^19.0.0-rc.1
+  checksum: 10c0/0a67a34e791c598c5819beb9aa5c11e67db06c9fccc9c5304453147b877fdfc7e73d520e92fcdde8b743e2f155b4cb6a50a15792001a776151191af73d60e24c
   languageName: node
   linkType: hard
 
@@ -1419,7 +2421,88 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prop-types@npm:*":
+"@types/d3-color@npm:^3.0.0":
+  version: 3.1.3
+  resolution: "@types/d3-color@npm:3.1.3"
+  checksum: 10c0/65eb0487de606eb5ad81735a9a5b3142d30bc5ea801ed9b14b77cb14c9b909f718c059f13af341264ee189acf171508053342142bdf99338667cea26a2d8d6ae
+  languageName: node
+  linkType: hard
+
+"@types/d3-delaunay@npm:^6.0.4":
+  version: 6.0.4
+  resolution: "@types/d3-delaunay@npm:6.0.4"
+  checksum: 10c0/d154a8864f08c4ea23ecb9bdabcef1c406a25baa8895f0cb08a0ed2799de0d360e597552532ce7086ff0cdffa8f3563f9109d18f0191459d32bb620a36939123
+  languageName: node
+  linkType: hard
+
+"@types/d3-format@npm:^1.4.1":
+  version: 1.4.5
+  resolution: "@types/d3-format@npm:1.4.5"
+  checksum: 10c0/d4dbfff22afdf1ad60db7115e877b891864fac380537534dbacf9b5f87cdcd0a418e8d83d4947c59ed8715befa7d018aecd8445f05ae3a5b0796dd495508c082
+  languageName: node
+  linkType: hard
+
+"@types/d3-path@npm:*":
+  version: 3.1.1
+  resolution: "@types/d3-path@npm:3.1.1"
+  checksum: 10c0/2c36eb31ebaf2ce4712e793fd88087117976f7c4ed69cc2431825f999c8c77cca5cea286f3326432b770739ac6ccd5d04d851eb65e7a4dbcc10c982b49ad2c02
+  languageName: node
+  linkType: hard
+
+"@types/d3-scale-chromatic@npm:^3.0.0":
+  version: 3.1.0
+  resolution: "@types/d3-scale-chromatic@npm:3.1.0"
+  checksum: 10c0/93c564e02d2e97a048e18fe8054e4a935335da6ab75a56c3df197beaa87e69122eef0dfbeb7794d4a444a00e52e3123514ee27cec084bd21f6425b7037828cc2
+  languageName: node
+  linkType: hard
+
+"@types/d3-scale@npm:^4.0.8":
+  version: 4.0.9
+  resolution: "@types/d3-scale@npm:4.0.9"
+  dependencies:
+    "@types/d3-time": "npm:*"
+  checksum: 10c0/4ac44233c05cd50b65b33ecb35d99fdf07566bcdbc55bc1306b2f27d1c5134d8c560d356f2c8e76b096e9125ffb8d26d95f78d56e210d1c542cb255bdf31d6c8
+  languageName: node
+  linkType: hard
+
+"@types/d3-shape@npm:^3.1.6":
+  version: 3.1.7
+  resolution: "@types/d3-shape@npm:3.1.7"
+  dependencies:
+    "@types/d3-path": "npm:*"
+  checksum: 10c0/38e59771c1c4c83b67aa1f941ce350410522a149d2175832fdc06396b2bb3b2c1a2dd549e0f8230f9f24296ee5641a515eaf10f55ee1ef6c4f83749e2dd7dcfd
+  languageName: node
+  linkType: hard
+
+"@types/d3-time-format@npm:^2.3.1":
+  version: 2.3.4
+  resolution: "@types/d3-time-format@npm:2.3.4"
+  checksum: 10c0/37b447f7338ab99d1591c7c2e55dde3b35916904132040046de4ad68a5691580bc29f23d04d6ce262454bc2713f1fbeaac912b5b44efcd8b733adc30b08ce28a
+  languageName: node
+  linkType: hard
+
+"@types/d3-time-format@npm:^3.0.0":
+  version: 3.0.4
+  resolution: "@types/d3-time-format@npm:3.0.4"
+  checksum: 10c0/3c0d22ff0e30610036d6f75f791fe8d957e750511e930bb4ea466bb43e1505497ffac8a77a0e62b3f0f5ee3c5515202fecfc7d3522ff78d2487af19d398d2184
+  languageName: node
+  linkType: hard
+
+"@types/d3-time@npm:*":
+  version: 3.0.4
+  resolution: "@types/d3-time@npm:3.0.4"
+  checksum: 10c0/6d9e2255d63f7a313a543113920c612e957d70da4fb0890931da6c2459010291b8b1f95e149a538500c1c99e7e6c89ffcce5554dd29a31ff134a38ea94b6d174
+  languageName: node
+  linkType: hard
+
+"@types/d3-time@npm:^1.1.1":
+  version: 1.1.4
+  resolution: "@types/d3-time@npm:1.1.4"
+  checksum: 10c0/d1dafa4605c10739de216bdf3dfe9c3953e583e849dc5586216525897c96bbbae8972c50e9c11a4c54e700c089914cf7a9764e9806d316a84838ecf9e5c52722
+  languageName: node
+  linkType: hard
+
+"@types/prop-types@npm:*, @types/prop-types@npm:^15.7.2":
   version: 15.7.15
   resolution: "@types/prop-types@npm:15.7.15"
   checksum: 10c0/b59aad1ad19bf1733cf524fd4e618196c6c7690f48ee70a327eb450a42aab8e8a063fbe59ca0a5701aebe2d92d582292c0fb845ea57474f6a15f6994b0e260b2
@@ -1546,6 +2629,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"chokidar@npm:^4.0.0":
+  version: 4.0.3
+  resolution: "chokidar@npm:4.0.3"
+  dependencies:
+    readdirp: "npm:^4.0.1"
+  checksum: 10c0/a58b9df05bb452f7d105d9e7229ac82fa873741c0c40ddcc7bb82f8a909fbe3f7814c9ebe9bc9a2bef9b737c0ec6e2d699d179048ef06ad3ec46315df0ebe6ad
+  languageName: node
+  linkType: hard
+
 "chownr@npm:^3.0.0":
   version: 3.0.0
   resolution: "chownr@npm:3.0.0"
@@ -1560,10 +2652,24 @@ __metadata:
   languageName: node
   linkType: hard
 
+"classnames@npm:^2.3.2":
+  version: 2.5.1
+  resolution: "classnames@npm:2.5.1"
+  checksum: 10c0/afff4f77e62cea2d79c39962980bf316bacb0d7c49e13a21adaadb9221e1c6b9d3cdb829d8bb1b23c406f4e740507f37e1dcf506f7e3b7113d17c5bab787aa69
+  languageName: node
+  linkType: hard
+
 "clone@npm:^2.1.2":
   version: 2.1.2
   resolution: "clone@npm:2.1.2"
   checksum: 10c0/ed0601cd0b1606bc7d82ee7175b97e68d1dd9b91fd1250a3617b38d34a095f8ee0431d40a1a611122dcccb4f93295b4fdb94942aa763392b5fe44effa50c2d5e
+  languageName: node
+  linkType: hard
+
+"clsx@npm:^2.0.0":
+  version: 2.1.1
+  resolution: "clsx@npm:2.1.1"
+  checksum: 10c0/c4c8eb865f8c82baab07e71bfa8897c73454881c4f99d6bc81585aecd7c441746c1399d08363dc096c550cceaf97bd4ce1e8854e1771e9998d9f94c4fe075839
   languageName: node
   linkType: hard
 
@@ -1597,6 +2703,145 @@ __metadata:
   languageName: node
   linkType: hard
 
+"d3-array@npm:2":
+  version: 2.12.1
+  resolution: "d3-array@npm:2.12.1"
+  dependencies:
+    internmap: "npm:^1.0.0"
+  checksum: 10c0/7eca10427a9f113a4ca6a0f7301127cab26043fd5e362631ef5a0edd1c4b2dd70c56ed317566700c31e4a6d88b55f3951aaba192291817f243b730cb2352882e
+  languageName: node
+  linkType: hard
+
+"d3-array@npm:2 - 3, d3-array@npm:2.10.0 - 3":
+  version: 3.2.4
+  resolution: "d3-array@npm:3.2.4"
+  dependencies:
+    internmap: "npm:1 - 2"
+  checksum: 10c0/08b95e91130f98c1375db0e0af718f4371ccacef7d5d257727fe74f79a24383e79aba280b9ffae655483ffbbad4fd1dec4ade0119d88c4749f388641c8bf8c50
+  languageName: node
+  linkType: hard
+
+"d3-color@npm:1 - 3, d3-color@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "d3-color@npm:3.1.0"
+  checksum: 10c0/a4e20e1115fa696fce041fbe13fbc80dc4c19150fa72027a7c128ade980bc0eeeba4bcf28c9e21f0bce0e0dbfe7ca5869ef67746541dcfda053e4802ad19783c
+  languageName: node
+  linkType: hard
+
+"d3-delaunay@npm:^6.0.4":
+  version: 6.0.4
+  resolution: "d3-delaunay@npm:6.0.4"
+  dependencies:
+    delaunator: "npm:5"
+  checksum: 10c0/57c3aecd2525664b07c4c292aa11cf49b2752c0cf3f5257f752999399fe3c592de2d418644d79df1f255471eec8057a9cc0c3062ed7128cb3348c45f69597754
+  languageName: node
+  linkType: hard
+
+"d3-format@npm:1 - 3":
+  version: 3.1.0
+  resolution: "d3-format@npm:3.1.0"
+  checksum: 10c0/049f5c0871ebce9859fc5e2f07f336b3c5bfff52a2540e0bac7e703fce567cd9346f4ad1079dd18d6f1e0eaa0599941c1810898926f10ac21a31fd0a34b4aa75
+  languageName: node
+  linkType: hard
+
+"d3-format@npm:^1.4.4":
+  version: 1.4.5
+  resolution: "d3-format@npm:1.4.5"
+  checksum: 10c0/40800a2fb2182d2d711cea3acc2b8b2b3afdb6f644c51de77feb9b08a6150b14c753933d2fd4ad2f6f45130757b738673372c45b4b820466c560f3b1ec0b3ce8
+  languageName: node
+  linkType: hard
+
+"d3-interpolate@npm:1 - 3, d3-interpolate@npm:1.2.0 - 3, d3-interpolate@npm:^3.0.1":
+  version: 3.0.1
+  resolution: "d3-interpolate@npm:3.0.1"
+  dependencies:
+    d3-color: "npm:1 - 3"
+  checksum: 10c0/19f4b4daa8d733906671afff7767c19488f51a43d251f8b7f484d5d3cfc36c663f0a66c38fe91eee30f40327443d799be17169f55a293a3ba949e84e57a33e6a
+  languageName: node
+  linkType: hard
+
+"d3-path@npm:^3.1.0":
+  version: 3.1.0
+  resolution: "d3-path@npm:3.1.0"
+  checksum: 10c0/dc1d58ec87fa8319bd240cf7689995111a124b141428354e9637aa83059eb12e681f77187e0ada5dedfce346f7e3d1f903467ceb41b379bfd01cd8e31721f5da
+  languageName: node
+  linkType: hard
+
+"d3-scale-chromatic@npm:^3.0.0":
+  version: 3.1.0
+  resolution: "d3-scale-chromatic@npm:3.1.0"
+  dependencies:
+    d3-color: "npm:1 - 3"
+    d3-interpolate: "npm:1 - 3"
+  checksum: 10c0/9a3f4671ab0b971f4a411b42180d7cf92bfe8e8584e637ce7e698d705e18d6d38efbd20ec64f60cc0dfe966c20d40fc172565bc28aaa2990c0a006360eed91af
+  languageName: node
+  linkType: hard
+
+"d3-scale@npm:^4.0.2":
+  version: 4.0.2
+  resolution: "d3-scale@npm:4.0.2"
+  dependencies:
+    d3-array: "npm:2.10.0 - 3"
+    d3-format: "npm:1 - 3"
+    d3-interpolate: "npm:1.2.0 - 3"
+    d3-time: "npm:2.1.1 - 3"
+    d3-time-format: "npm:2 - 4"
+  checksum: 10c0/65d9ad8c2641aec30ed5673a7410feb187a224d6ca8d1a520d68a7d6eac9d04caedbff4713d1e8545be33eb7fec5739983a7ab1d22d4e5ad35368c6729d362f1
+  languageName: node
+  linkType: hard
+
+"d3-shape@npm:^3.2.0":
+  version: 3.2.0
+  resolution: "d3-shape@npm:3.2.0"
+  dependencies:
+    d3-path: "npm:^3.1.0"
+  checksum: 10c0/f1c9d1f09926daaf6f6193ae3b4c4b5521e81da7d8902d24b38694517c7f527ce3c9a77a9d3a5722ad1e3ff355860b014557b450023d66a944eabf8cfde37132
+  languageName: node
+  linkType: hard
+
+"d3-time-format@npm:2 - 4":
+  version: 4.1.0
+  resolution: "d3-time-format@npm:4.1.0"
+  dependencies:
+    d3-time: "npm:1 - 3"
+  checksum: 10c0/735e00fb25a7fd5d418fac350018713ae394eefddb0d745fab12bbff0517f9cdb5f807c7bbe87bb6eeb06249662f8ea84fec075f7d0cd68609735b2ceb29d206
+  languageName: node
+  linkType: hard
+
+"d3-time-format@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "d3-time-format@npm:3.0.0"
+  dependencies:
+    d3-time: "npm:1 - 2"
+  checksum: 10c0/0abe3379f07d1c12ce8930cdddad1223c99cd3e4eac05cf409b5a7953e9ebed56a95a64b0977f63958cfb6101fa4a2a85533a5eae40df84f22c0117dbf5e8982
+  languageName: node
+  linkType: hard
+
+"d3-time@npm:1 - 2":
+  version: 2.1.1
+  resolution: "d3-time@npm:2.1.1"
+  dependencies:
+    d3-array: "npm:2"
+  checksum: 10c0/4a01770a857bc37d2bafb8f00250e0e6a1fcc8051aea93e5eed168d8ee93e92da508a75ab5e42fc5472aa37e2a83aac68afaf3f12d9167c184ce781faadf5682
+  languageName: node
+  linkType: hard
+
+"d3-time@npm:1 - 3, d3-time@npm:2.1.1 - 3":
+  version: 3.1.0
+  resolution: "d3-time@npm:3.1.0"
+  dependencies:
+    d3-array: "npm:2 - 3"
+  checksum: 10c0/a984f77e1aaeaa182679b46fbf57eceb6ebdb5f67d7578d6f68ef933f8eeb63737c0949991618a8d29472dbf43736c7d7f17c452b2770f8c1271191cba724ca1
+  languageName: node
+  linkType: hard
+
+"d3-time@npm:^1.0.11":
+  version: 1.1.0
+  resolution: "d3-time@npm:1.1.0"
+  checksum: 10c0/69ab137adff5b22d0fa148ea514a207bd9cd7d2c042ccf34a268f2ef73720b404f0be6e7b56c95650c53caf52080b5254e2a27f0a676f41d1dd22ef8872c8335
+  languageName: node
+  linkType: hard
+
 "debug@npm:4, debug@npm:^4.3.4":
   version: 4.4.3
   resolution: "debug@npm:4.4.3"
@@ -1606,6 +2851,22 @@ __metadata:
     supports-color:
       optional: true
   checksum: 10c0/d79136ec6c83ecbefd0f6a5593da6a9c91ec4d7ddc4b54c883d6e71ec9accb5f67a1a5e96d00a328196b5b5c86d365e98d8a3a70856aaf16b4e7b1985e67f5a6
+  languageName: node
+  linkType: hard
+
+"decimal.js@npm:^10.4.3":
+  version: 10.6.0
+  resolution: "decimal.js@npm:10.6.0"
+  checksum: 10c0/07d69fbcc54167a340d2d97de95f546f9ff1f69d2b45a02fd7a5292412df3cd9eb7e23065e532a318f5474a2e1bccf8392fdf0443ef467f97f3bf8cb0477e5aa
+  languageName: node
+  linkType: hard
+
+"delaunator@npm:5":
+  version: 5.0.1
+  resolution: "delaunator@npm:5.0.1"
+  dependencies:
+    robust-predicates: "npm:^3.0.2"
+  checksum: 10c0/3d7ea4d964731c5849af33fec0a271bc6753487b331fd7d43ccb17d77834706e1c383e6ab8fda0032da955e7576d1083b9603cdaf9cbdfd6b3ebd1fb8bb675a5
   languageName: node
   linkType: hard
 
@@ -1724,12 +2985,49 @@ __metadata:
   languageName: node
   linkType: hard
 
+"framer-motion@npm:6.5.1, framer-motion@npm:^6.5.1":
+  version: 6.5.1
+  resolution: "framer-motion@npm:6.5.1"
+  dependencies:
+    "@emotion/is-prop-valid": "npm:^0.8.2"
+    "@motionone/dom": "npm:10.12.0"
+    framesync: "npm:6.0.1"
+    hey-listen: "npm:^1.0.8"
+    popmotion: "npm:11.0.3"
+    style-value-types: "npm:5.0.0"
+    tslib: "npm:^2.1.0"
+  peerDependencies:
+    react: ">=16.8 || ^17.0.0 || ^18.0.0"
+    react-dom: ">=16.8 || ^17.0.0 || ^18.0.0"
+  dependenciesMeta:
+    "@emotion/is-prop-valid":
+      optional: true
+  checksum: 10c0/69d64f7ac878eb5a0d90f1ccbaaee76f7731b276c4369fdce7d283fa92cca35ea05c42ad2da0c6c0ab4bb180b7fa4f511b6928bdb43818f6feaf245531d3df5a
+  languageName: node
+  linkType: hard
+
+"framesync@npm:6.0.1":
+  version: 6.0.1
+  resolution: "framesync@npm:6.0.1"
+  dependencies:
+    tslib: "npm:^2.1.0"
+  checksum: 10c0/ce84ce548a8612be070204b9cf3ce7258acead2d51df05586995340e501d1439dfc1f9402ede921a9c0dde854d80fd46e97c699a3657f8d7abd5bc705553bf2b
+  languageName: node
+  linkType: hard
+
 "fs-minipass@npm:^3.0.0":
   version: 3.0.3
   resolution: "fs-minipass@npm:3.0.3"
   dependencies:
     minipass: "npm:^7.0.3"
   checksum: 10c0/63e80da2ff9b621e2cb1596abcb9207f1cf82b968b116ccd7b959e3323144cce7fb141462200971c38bbf2ecca51695069db45265705bed09a7cd93ae5b89f94
+  languageName: node
+  linkType: hard
+
+"function-bind@npm:^1.1.2":
+  version: 1.1.2
+  resolution: "function-bind@npm:1.1.2"
+  checksum: 10c0/d8680ee1e5fcd4c197e4ac33b2b4dce03c71f4d91717292785703db200f5c21f977c568d28061226f9b5900cbcd2c84463646134fd5337e7925e0942bc3f46d5
   languageName: node
   linkType: hard
 
@@ -1771,6 +3069,22 @@ __metadata:
   version: 4.0.0
   resolution: "has-flag@npm:4.0.0"
   checksum: 10c0/2e789c61b7888d66993e14e8331449e525ef42aac53c627cc53d1c3334e768bcb6abdc4f5f0de1478a25beec6f0bd62c7549058b7ac53e924040d4f301f02fd1
+  languageName: node
+  linkType: hard
+
+"hasown@npm:^2.0.2":
+  version: 2.0.2
+  resolution: "hasown@npm:2.0.2"
+  dependencies:
+    function-bind: "npm:^1.1.2"
+  checksum: 10c0/3769d434703b8ac66b209a4cca0737519925bbdb61dd887f93a16372b14694c63ff4e797686d87c90f08168e81082248b9b028bad60d4da9e0d1148766f56eb9
+  languageName: node
+  linkType: hard
+
+"hey-listen@npm:^1.0.8":
+  version: 1.0.8
+  resolution: "hey-listen@npm:1.0.8"
+  checksum: 10c0/38db3028b4756f3d536c0f6a92da53bad577ab649b06dddfd0a4d953f9a46bbc6a7f693c8c5b466a538d6d23dbc469260c848427f0de14198a2bbecbac37b39e
   languageName: node
   linkType: hard
 
@@ -1819,6 +3133,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"immutable@npm:^5.0.2":
+  version: 5.1.4
+  resolution: "immutable@npm:5.1.4"
+  checksum: 10c0/f1c98382e4cde14a0b218be3b9b2f8441888da8df3b8c064aa756071da55fbed6ad696e5959982508456332419be9fdeaf29b2e58d0eadc45483cc16963c0446
+  languageName: node
+  linkType: hard
+
 "imurmurhash@npm:^0.1.4":
   version: 0.1.4
   resolution: "imurmurhash@npm:0.1.4"
@@ -1826,10 +3147,33 @@ __metadata:
   languageName: node
   linkType: hard
 
+"internmap@npm:1 - 2":
+  version: 2.0.3
+  resolution: "internmap@npm:2.0.3"
+  checksum: 10c0/8cedd57f07bbc22501516fbfc70447f0c6812871d471096fad9ea603516eacc2137b633633daf432c029712df0baefd793686388ddf5737e3ea15074b877f7ed
+  languageName: node
+  linkType: hard
+
+"internmap@npm:^1.0.0":
+  version: 1.0.1
+  resolution: "internmap@npm:1.0.1"
+  checksum: 10c0/60942be815ca19da643b6d4f23bd0bf4e8c97abbd080fb963fe67583b60bdfb3530448ad4486bae40810e92317bded9995cc31411218acc750d72cd4e8646eee
+  languageName: node
+  linkType: hard
+
 "ip-address@npm:^10.0.1":
   version: 10.1.0
   resolution: "ip-address@npm:10.1.0"
   checksum: 10c0/0103516cfa93f6433b3bd7333fa876eb21263912329bfa47010af5e16934eeeff86f3d2ae700a3744a137839ddfad62b900c7a445607884a49b5d1e32a3d7566
+  languageName: node
+  linkType: hard
+
+"is-core-module@npm:^2.16.1":
+  version: 2.16.1
+  resolution: "is-core-module@npm:2.16.1"
+  dependencies:
+    hasown: "npm:^2.0.2"
+  checksum: 10c0/898443c14780a577e807618aaae2b6f745c8538eca5c7bc11388a3f2dc6de82b9902bcc7eb74f07be672b11bbe82dd6a6edded44a00cb3d8f933d0459905eedd
   languageName: node
   linkType: hard
 
@@ -2034,6 +3378,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"lodash@npm:^4.17.21":
+  version: 4.17.21
+  resolution: "lodash@npm:4.17.21"
+  checksum: 10c0/d8cbea072bb08655bb4c989da418994b073a608dffa608b09ac04b43a791b12aeae7cd7ad919aa4c925f33b48490b5cfe6c1f71d827956071dae2e7bb3a6b74c
+  languageName: node
+  linkType: hard
+
 "loose-envify@npm:^1.1.0, loose-envify@npm:^1.4.0":
   version: 1.4.0
   resolution: "loose-envify@npm:1.4.0"
@@ -2216,6 +3567,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"nanoid@npm:^3.3.11":
+  version: 3.3.11
+  resolution: "nanoid@npm:3.3.11"
+  bin:
+    nanoid: bin/nanoid.cjs
+  checksum: 10c0/40e7f70b3d15f725ca072dfc4f74e81fcf1fbb02e491cf58ac0c79093adc9b0a73b152bcde57df4b79cd097e13023d7504acb38404a4da7bc1cd8e887b82fe0b
+  languageName: node
+  linkType: hard
+
 "negotiator@npm:^1.0.0":
   version: 1.0.0
   resolution: "negotiator@npm:1.0.0"
@@ -2358,6 +3718,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"path-parse@npm:^1.0.7":
+  version: 1.0.7
+  resolution: "path-parse@npm:1.0.7"
+  checksum: 10c0/11ce261f9d294cc7a58d6a574b7f1b935842355ec66fba3c3fd79e0f036462eaf07d0aa95bb74ff432f9afef97ce1926c720988c6a7451d8a584930ae7de86e1
+  languageName: node
+  linkType: hard
+
 "path-scurry@npm:^2.0.0":
   version: 2.0.1
   resolution: "path-scurry@npm:2.0.1"
@@ -2389,15 +3756,70 @@ __metadata:
   languageName: node
   linkType: hard
 
+"pify@npm:^2.3.0":
+  version: 2.3.0
+  resolution: "pify@npm:2.3.0"
+  checksum: 10c0/551ff8ab830b1052633f59cb8adc9ae8407a436e06b4a9718bcb27dc5844b83d535c3a8512b388b6062af65a98c49bdc0dd523d8b2617b188f7c8fee457158dc
+  languageName: node
+  linkType: hard
+
 "policy-table-issue@workspace:.":
   version: 0.0.0-use.local
   resolution: "policy-table-issue@workspace:."
   dependencies:
+    "@ciscodesignsystems/cds-component-types": "npm:1.8.7"
+    "@ciscodesignsystems/cds-component-utilities": "npm:1.8.7"
+    "@ciscodesignsystems/cds-magnetic-theme-web": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-breadcrumb": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-button": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-card": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-checkbox": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-collapse": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-container": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-divider": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-drawer": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-dropdown": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-empty-state": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-filter-bar": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-flex": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-heading": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-icons": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-label": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-link": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-modal": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-notification": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-pagination": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-popover": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-progress-bar": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-radio": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-search": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-select": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-skeleton": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-spinner": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-stepper": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-tab": "npm:1.8.7"
     "@ciscodesignsystems/cds-react-table": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-tag": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-text": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-text-input": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-textarea": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-theme-provider": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-toaster": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-toggle": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-tooltip": "npm:1.8.7"
+    "@ciscodesignsystems/cds-react-transfer": "npm:1.8.7"
+    "@parcel/config-default": "npm:^2.16.1"
     "@parcel/core": "npm:^2.16.1"
+    "@parcel/resolver-default": "npm:^2.16.1"
+    "@parcel/transformer-css": "npm:^2.16.1"
+    "@parcel/transformer-postcss": "npm:^2.16.1"
+    "@parcel/transformer-sass": "npm:2.16.1"
+    "@phosphor-icons/react": "npm:^2.0.15"
     "@types/react": "npm:^18.2.0"
     "@types/react-dom": "npm:^18.2.0"
     parcel: "npm:^2.10.0"
+    postcss: "npm:^8.5.6"
+    postcss-import: "npm:^16.1.1"
     process: "npm:^0.11.10"
     prop-types: "npm:^15.8.1"
     react: "npm:^18.2.0"
@@ -2405,10 +3827,46 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"postcss-value-parser@npm:^4.2.0":
+"popmotion@npm:11.0.3":
+  version: 11.0.3
+  resolution: "popmotion@npm:11.0.3"
+  dependencies:
+    framesync: "npm:6.0.1"
+    hey-listen: "npm:^1.0.8"
+    style-value-types: "npm:5.0.0"
+    tslib: "npm:^2.1.0"
+  checksum: 10c0/ed196cf034c199a2ab6095f047924b38e24f386c33a182970ad6e1769002b72adff34a72ba7ab2cf34ff5bbfd711ef4caf2e9843ebb7a5c9cafa27c50e525f70
+  languageName: node
+  linkType: hard
+
+"postcss-import@npm:^16.1.1":
+  version: 16.1.1
+  resolution: "postcss-import@npm:16.1.1"
+  dependencies:
+    postcss-value-parser: "npm:^4.0.0"
+    read-cache: "npm:^1.0.0"
+    resolve: "npm:^1.1.7"
+  peerDependencies:
+    postcss: ^8.0.0
+  checksum: 10c0/b91245971564891110cb407c7459bd470893ccbdd3328fdd384ef2be4d0e5f304e5834acbb8b537ad562c001db34bee1c29b55994bead5ab5a53b1edc2a687b9
+  languageName: node
+  linkType: hard
+
+"postcss-value-parser@npm:^4.0.0, postcss-value-parser@npm:^4.2.0":
   version: 4.2.0
   resolution: "postcss-value-parser@npm:4.2.0"
   checksum: 10c0/f4142a4f56565f77c1831168e04e3effd9ffcc5aebaf0f538eee4b2d465adfd4b85a44257bb48418202a63806a7da7fe9f56c330aebb3cac898e46b4cbf49161
+  languageName: node
+  linkType: hard
+
+"postcss@npm:^8.5.6":
+  version: 8.5.6
+  resolution: "postcss@npm:8.5.6"
+  dependencies:
+    nanoid: "npm:^3.3.11"
+    picocolors: "npm:^1.1.1"
+    source-map-js: "npm:^1.2.1"
+  checksum: 10c0/5127cc7c91ed7a133a1b7318012d8bfa112da9ef092dddf369ae699a1f10ebbd89b1b9f25f3228795b84585c72aabd5ced5fc11f2ba467eedf7b081a66fad024
   languageName: node
   linkType: hard
 
@@ -2436,7 +3894,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prop-types@npm:^15.8.1":
+"prop-types@npm:^15.7.2, prop-types@npm:^15.8.1":
   version: 15.8.1
   resolution: "prop-types@npm:15.8.1"
   dependencies:
@@ -2444,6 +3902,13 @@ __metadata:
     object-assign: "npm:^4.1.1"
     react-is: "npm:^16.13.1"
   checksum: 10c0/59ece7ca2fb9838031d73a48d4becb9a7cc1ed10e610517c7d8f19a1e02fa47f7c27d557d8a5702bec3cfeccddc853579832b43f449e54635803f277b1c78077
+  languageName: node
+  linkType: hard
+
+"ramda@npm:^0.29.0":
+  version: 0.29.1
+  resolution: "ramda@npm:0.29.1"
+  checksum: 10c0/5de53a07400959c1a704c366ec52b1b8cd9a444dc1f9cdf17d607e0b9eeaa38cbaea309d43e59dbd7f36731ba977a64d40092555c0e7c2d4a41e8e922239c0ba
   languageName: node
   linkType: hard
 
@@ -2493,6 +3958,23 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-fast-compare@npm:^3.2.2":
+  version: 3.2.2
+  resolution: "react-fast-compare@npm:3.2.2"
+  checksum: 10c0/0bbd2f3eb41ab2ff7380daaa55105db698d965c396df73e6874831dbafec8c4b5b08ba36ff09df01526caa3c61595247e3269558c284e37646241cba2b90a367
+  languageName: node
+  linkType: hard
+
+"react-innertext@npm:^1.1.5":
+  version: 1.1.5
+  resolution: "react-innertext@npm:1.1.5"
+  peerDependencies:
+    "@types/react": ">=0.0.0 <=99"
+    react: ">=0.0.0 <=99"
+  checksum: 10c0/45335918ac83334133a9fa0df4ce109e0d4a45d54b783a8eaec88811b36dd5c3bbb5d9a6af2da1eed518a6f325a6ffae4be7bd30878596e0ec1760b231a8e0ee
+  languageName: node
+  linkType: hard
+
 "react-is@npm:^16.13.1, react-is@npm:^16.7.0":
   version: 16.13.1
   resolution: "react-is@npm:16.13.1"
@@ -2513,6 +3995,22 @@ __metadata:
   dependencies:
     loose-envify: "npm:^1.1.0"
   checksum: 10c0/283e8c5efcf37802c9d1ce767f302dd569dd97a70d9bb8c7be79a789b9902451e0d16334b05d73299b20f048cbc3c7d288bbbde10b701fa194e2089c237dbea3
+  languageName: node
+  linkType: hard
+
+"read-cache@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "read-cache@npm:1.0.0"
+  dependencies:
+    pify: "npm:^2.3.0"
+  checksum: 10c0/90cb2750213c7dd7c80cb420654344a311fdec12944e81eb912cd82f1bc92aea21885fa6ce442e3336d9fccd663b8a7a19c46d9698e6ca55620848ab932da814
+  languageName: node
+  linkType: hard
+
+"readdirp@npm:^4.0.1":
+  version: 4.1.2
+  resolution: "readdirp@npm:4.1.2"
+  checksum: 10c0/60a14f7619dec48c9c850255cd523e2717001b0e179dc7037cfa0895da7b9e9ab07532d324bfb118d73a710887d1e35f79c495fa91582784493e085d18c72c62
   languageName: node
   linkType: hard
 
@@ -2539,10 +4037,43 @@ __metadata:
   languageName: node
   linkType: hard
 
+"resolve@npm:^1.1.7":
+  version: 1.22.11
+  resolution: "resolve@npm:1.22.11"
+  dependencies:
+    is-core-module: "npm:^2.16.1"
+    path-parse: "npm:^1.0.7"
+    supports-preserve-symlinks-flag: "npm:^1.0.0"
+  bin:
+    resolve: bin/resolve
+  checksum: 10c0/f657191507530f2cbecb5815b1ee99b20741ea6ee02a59c57028e9ec4c2c8d7681afcc35febbd554ac0ded459db6f2d8153382c53a2f266cee2575e512674409
+  languageName: node
+  linkType: hard
+
+"resolve@patch:resolve@npm%3A^1.1.7#optional!builtin<compat/resolve>":
+  version: 1.22.11
+  resolution: "resolve@patch:resolve@npm%3A1.22.11#optional!builtin<compat/resolve>::version=1.22.11&hash=c3c19d"
+  dependencies:
+    is-core-module: "npm:^2.16.1"
+    path-parse: "npm:^1.0.7"
+    supports-preserve-symlinks-flag: "npm:^1.0.0"
+  bin:
+    resolve: bin/resolve
+  checksum: 10c0/ee5b182f2e37cb1165465e58c6abc797fec0a80b5ba3231607beb4677db0c9291ac010c47cf092b6daa2b7f518d69a0e21888e7e2b633f68d501a874212a8c63
+  languageName: node
+  linkType: hard
+
 "retry@npm:^0.12.0":
   version: 0.12.0
   resolution: "retry@npm:0.12.0"
   checksum: 10c0/59933e8501727ba13ad73ef4a04d5280b3717fd650408460c987392efe9d7be2040778ed8ebe933c5cbd63da3dcc37919c141ef8af0a54a6e4fca5a2af177bfe
+  languageName: node
+  linkType: hard
+
+"robust-predicates@npm:^3.0.2":
+  version: 3.0.2
+  resolution: "robust-predicates@npm:3.0.2"
+  checksum: 10c0/4ecd53649f1c2d49529c85518f2fa69ffb2f7a4453f7fd19c042421c7b4d76c3efb48bc1c740c8f7049346d7cb58cf08ee0c9adaae595cc23564d360adb1fde4
   languageName: node
   linkType: hard
 
@@ -2557,6 +4088,23 @@ __metadata:
   version: 2.1.2
   resolution: "safer-buffer@npm:2.1.2"
   checksum: 10c0/7e3c8b2e88a1841c9671094bbaeebd94448111dd90a81a1f606f3f67708a6ec57763b3b47f06da09fc6054193e0e6709e77325415dc8422b04497a8070fa02d4
+  languageName: node
+  linkType: hard
+
+"sass@npm:^1.88.0":
+  version: 1.94.2
+  resolution: "sass@npm:1.94.2"
+  dependencies:
+    "@parcel/watcher": "npm:^2.4.1"
+    chokidar: "npm:^4.0.0"
+    immutable: "npm:^5.0.2"
+    source-map-js: "npm:>=0.6.2 <2.0.0"
+  dependenciesMeta:
+    "@parcel/watcher":
+      optional: true
+  bin:
+    sass: sass.js
+  checksum: 10c0/49a656dfab58299165ef94e71483a333972daee68c49fa542858d4912accdfb1707338226a165b1a2dfcdb2509fcda5a5b4f3780d14e49b6d38d93c8043475d3
   languageName: node
   linkType: hard
 
@@ -2606,6 +4154,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"source-map-js@npm:>=0.6.2 <2.0.0, source-map-js@npm:^1.2.1":
+  version: 1.2.1
+  resolution: "source-map-js@npm:1.2.1"
+  checksum: 10c0/7bda1fc4c197e3c6ff17de1b8b2c20e60af81b63a52cb32ec5a5d67a20a7d42651e2cb34ebe93833c5a2a084377e17455854fee3e21e7925c64a51b6a52b0faf
+  languageName: node
+  linkType: hard
+
 "ssri@npm:^13.0.0":
   version: 13.0.0
   resolution: "ssri@npm:13.0.0"
@@ -2615,12 +4170,36 @@ __metadata:
   languageName: node
   linkType: hard
 
+"style-value-types@npm:5.0.0":
+  version: 5.0.0
+  resolution: "style-value-types@npm:5.0.0"
+  dependencies:
+    hey-listen: "npm:^1.0.8"
+    tslib: "npm:^2.1.0"
+  checksum: 10c0/a7b693269d48c0cab73da6c88eade845e71b5f330541a9ccb6a065468739d9bafdeb34f94fb89581931371275846da53e35989218cbc0c2d1a38f127e4d765fd
+  languageName: node
+  linkType: hard
+
 "supports-color@npm:^7.1.0":
   version: 7.2.0
   resolution: "supports-color@npm:7.2.0"
   dependencies:
     has-flag: "npm:^4.0.0"
   checksum: 10c0/afb4c88521b8b136b5f5f95160c98dee7243dc79d5432db7efc27efb219385bbc7d9427398e43dd6cc730a0f87d5085ce1652af7efbe391327bc0a7d0f7fc124
+  languageName: node
+  linkType: hard
+
+"supports-preserve-symlinks-flag@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "supports-preserve-symlinks-flag@npm:1.0.0"
+  checksum: 10c0/6c4032340701a9950865f7ae8ef38578d8d7053f5e10518076e6554a9381fa91bd9c6850193695c141f32b21f979c985db07265a758867bac95de05f7d8aeb39
+  languageName: node
+  linkType: hard
+
+"tabbable@npm:^6.0.0":
+  version: 6.3.0
+  resolution: "tabbable@npm:6.3.0"
+  checksum: 10c0/57ba019d29b5cfa0c862248883bcec0e6d29d8f156ba52a1f425e7cfeca4a0fc701ab8d035c4c86ddf74ecdbd0e9f454a88d9b55d924a51f444038e9cd14d7a0
   languageName: node
   linkType: hard
 
@@ -2663,7 +4242,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"tslib@npm:^2.0.0, tslib@npm:^2.8.0":
+"tslib@npm:^2.0.0, tslib@npm:^2.1.0, tslib@npm:^2.3.1, tslib@npm:^2.8.0":
   version: 2.8.1
   resolution: "tslib@npm:2.8.1"
   checksum: 10c0/9c4759110a19c53f992d9aae23aac5ced636e99887b51b9e61def52611732872ff7668757d4e4c61f19691e36f4da981cd9485e869b4a7408d689f6bf1f14e62
@@ -2713,6 +4292,15 @@ __metadata:
   version: 3.11.0
   resolution: "utility-types@npm:3.11.0"
   checksum: 10c0/2f1580137b0c3e6cf5405f37aaa8f5249961a76d26f1ca8efc0ff49a2fc0e0b2db56de8e521a174d075758e0c7eb3e590edec0832eb44478b958f09914920f19
+  languageName: node
+  linkType: hard
+
+"uuid@npm:^9.0.0":
+  version: 9.0.1
+  resolution: "uuid@npm:9.0.1"
+  bin:
+    uuid: dist/bin/uuid
+  checksum: 10c0/1607dd32ac7fc22f2d8f77051e6a64845c9bce5cd3dd8aa0070c074ec73e666a1f63c7b4e0f4bf2bc8b9d59dc85a15e17807446d9d2b17c8485fbc2147b27f9b
   languageName: node
   linkType: hard
 
