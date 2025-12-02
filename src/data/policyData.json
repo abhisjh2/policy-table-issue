@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "policyName": "Security Policy A",
+    "status": "Active",
+    "lastModified": "2024-01-15",
+    "owner": "John Doe",
+    "priority": "High"
+  },
+  {
+    "id": "2",
+    "policyName": "Compliance Policy B",
+    "status": "Pending",
+    "lastModified": "2024-01-20",
+    "owner": "Jane Smith",
+    "priority": "Medium"
+  },
+  {
+    "id": "3",
+    "policyName": "Access Control Policy C",
+    "status": "Active",
+    "lastModified": "2024-01-18",
+    "owner": "Bob Johnson",
+    "priority": "High"
+  },
+  {
+    "id": "4",
+    "policyName": "Data Retention Policy D",
+    "status": "Inactive",
+    "lastModified": "2024-01-10",
+    "owner": "Alice Williams",
+    "priority": "Low"
+  },
+  {
+    "id": "5",
+    "policyName": "Network Policy E",
+    "status": "Active",
+    "lastModified": "2024-01-22",
+    "owner": "Charlie Brown",
+    "priority": "Medium"
+  }
+]
+
