@@ -51,12 +51,3 @@ yarn build
 # Deploy to gh-pages branch
 gh-pages -d dist
 ```
-
-### Notes
-
-- The `.nojekyll` file is included to prevent Jekyll processing
-- The build output goes to the `dist/` directory
-- Assets are configured with relative paths (`--public-url ./`) for GitHub Pages compatibility
-- The `gh-pages` branch will be created automatically on first deploy
-- After deployment, updates may take a few minutes to appear on GitHub Pages
-
