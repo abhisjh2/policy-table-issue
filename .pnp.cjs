@@ -30,7 +30,9 @@ const RAW_RUNTIME_STATE =
           ["@ciscodesignsystems/cds-component-types", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-types%2F-%2F%40ciscodesignsystems%2Fcds-component-types-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-magnetic-theme-web", "npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-magnetic-theme-web%2F-%2F%40ciscodesignsystems%2Fcds-magnetic-theme-web-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-breadcrumb", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-breadcrumb%2F-%2F%40ciscodesignsystems%2Fcds-react-breadcrumb-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-button", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-button%2F-%2F%40ciscodesignsystems%2Fcds-react-button-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-card", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-card%2F-%2F%40ciscodesignsystems%2Fcds-react-card-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-checkbox", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-checkbox%2F-%2F%40ciscodesignsystems%2Fcds-react-checkbox-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-divider", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-divider%2F-%2F%40ciscodesignsystems%2Fcds-react-divider-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-drawer", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-drawer%2F-%2F%40ciscodesignsystems%2Fcds-react-drawer-1.8.7.tgz"],\
@@ -40,8 +42,12 @@ const RAW_RUNTIME_STATE =
           ["@ciscodesignsystems/cds-react-flex", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-flex%2F-%2F%40ciscodesignsystems%2Fcds-react-flex-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-heading", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-heading%2F-%2F%40ciscodesignsystems%2Fcds-react-heading-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-icons", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-icons%2F-%2F%40ciscodesignsystems%2Fcds-react-icons-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-label", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-notification", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-pagination", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-pagination%2F-%2F%40ciscodesignsystems%2Fcds-react-pagination-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-popover", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-popover%2F-%2F%40ciscodesignsystems%2Fcds-react-popover-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-progress-bar", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-progress-bar%2F-%2F%40ciscodesignsystems%2Fcds-react-progress-bar-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-radio", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-radio%2F-%2F%40ciscodesignsystems%2Fcds-react-radio-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-search", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-search%2F-%2F%40ciscodesignsystems%2Fcds-react-search-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-select", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-select%2F-%2F%40ciscodesignsystems%2Fcds-react-select-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-skeleton", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-skeleton%2F-%2F%40ciscodesignsystems%2Fcds-react-skeleton-1.8.7.tgz"],\
@@ -150,6 +156,49 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@ciscodesignsystems/cds-react-breadcrumb", [\
+      ["npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-breadcrumb%2F-%2F%40ciscodesignsystems%2Fcds-react-breadcrumb-1.8.7.tgz", {\
+        "packageLocation": "../../../.yarn/berry/cache/@ciscodesignsystems-cds-react-breadcrumb-npm-1.8.7-de03042866-10c0.zip/node_modules/@ciscodesignsystems/cds-react-breadcrumb/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-breadcrumb", "npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-breadcrumb%2F-%2F%40ciscodesignsystems%2Fcds-react-breadcrumb-1.8.7.tgz"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-breadcrumb%2F-%2F%40ciscodesignsystems%2Fcds-react-breadcrumb-1.8.7.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/@ciscodesignsystems-cds-react-breadcrumb-virtual-7d780270d4/4/.yarn/berry/cache/@ciscodesignsystems-cds-react-breadcrumb-npm-1.8.7-de03042866-10c0.zip/node_modules/@ciscodesignsystems/cds-react-breadcrumb/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-breadcrumb", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-breadcrumb%2F-%2F%40ciscodesignsystems%2Fcds-react-breadcrumb-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-component-types", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-types%2F-%2F%40ciscodesignsystems%2Fcds-component-types-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-dropdown", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-dropdown%2F-%2F%40ciscodesignsystems%2Fcds-react-dropdown-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-tooltip", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-tooltip%2F-%2F%40ciscodesignsystems%2Fcds-react-tooltip-1.8.7.tgz"],\
+          ["@phosphor-icons/react", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:2.1.10"],\
+          ["@types/ciscodesignsystems__cds-component-types", null],\
+          ["@types/ciscodesignsystems__cds-component-utilities", null],\
+          ["@types/ciscodesignsystems__cds-react-dropdown", null],\
+          ["@types/ciscodesignsystems__cds-react-tooltip", null],\
+          ["@types/react", "npm:18.3.27"],\
+          ["@types/react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.7"],\
+          ["react", "npm:18.3.1"],\
+          ["react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.1"]\
+        ],\
+        "packagePeers": [\
+          "@ciscodesignsystems/cds-component-types",\
+          "@ciscodesignsystems/cds-component-utilities",\
+          "@ciscodesignsystems/cds-react-dropdown",\
+          "@ciscodesignsystems/cds-react-tooltip",\
+          "@types/ciscodesignsystems__cds-component-types",\
+          "@types/ciscodesignsystems__cds-component-utilities",\
+          "@types/ciscodesignsystems__cds-react-dropdown",\
+          "@types/ciscodesignsystems__cds-react-tooltip",\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@ciscodesignsystems/cds-react-button", [\
       ["npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-button%2F-%2F%40ciscodesignsystems%2Fcds-react-button-1.8.7.tgz", {\
         "packageLocation": "../../../.yarn/berry/cache/@ciscodesignsystems-cds-react-button-npm-1.8.7-dd20723f0f-10c0.zip/node_modules/@ciscodesignsystems/cds-react-button/",\
@@ -180,6 +229,36 @@ const RAW_RUNTIME_STATE =
           "@types/ciscodesignsystems__cds-component-types",\
           "@types/ciscodesignsystems__cds-component-utilities",\
           "@types/ciscodesignsystems__cds-react-spinner",\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@ciscodesignsystems/cds-react-card", [\
+      ["npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-card%2F-%2F%40ciscodesignsystems%2Fcds-react-card-1.8.7.tgz", {\
+        "packageLocation": "../../../.yarn/berry/cache/@ciscodesignsystems-cds-react-card-npm-1.8.7-54316e3c5d-10c0.zip/node_modules/@ciscodesignsystems/cds-react-card/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-card", "npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-card%2F-%2F%40ciscodesignsystems%2Fcds-react-card-1.8.7.tgz"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-card%2F-%2F%40ciscodesignsystems%2Fcds-react-card-1.8.7.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/@ciscodesignsystems-cds-react-card-virtual-4ab7198510/4/.yarn/berry/cache/@ciscodesignsystems-cds-react-card-npm-1.8.7-54316e3c5d-10c0.zip/node_modules/@ciscodesignsystems/cds-react-card/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-card", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-card%2F-%2F%40ciscodesignsystems%2Fcds-react-card-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
+          ["@types/ciscodesignsystems__cds-component-utilities", null],\
+          ["@types/react", "npm:18.3.27"],\
+          ["@types/react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.7"],\
+          ["react", "npm:18.3.1"],\
+          ["react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.1"]\
+        ],\
+        "packagePeers": [\
+          "@ciscodesignsystems/cds-component-utilities",\
+          "@types/ciscodesignsystems__cds-component-utilities",\
           "@types/react-dom",\
           "@types/react",\
           "react-dom",\
@@ -522,6 +601,97 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@ciscodesignsystems/cds-react-label", [\
+      ["npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz", {\
+        "packageLocation": "../../../.yarn/berry/cache/@ciscodesignsystems-cds-react-label-npm-1.8.7-6dc98964df-10c0.zip/node_modules/@ciscodesignsystems/cds-react-label/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-label", "npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/@ciscodesignsystems-cds-react-label-virtual-fcf5f4248e/4/.yarn/berry/cache/@ciscodesignsystems-cds-react-label-npm-1.8.7-6dc98964df-10c0.zip/node_modules/@ciscodesignsystems/cds-react-label/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-label", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-flex", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-flex%2F-%2F%40ciscodesignsystems%2Fcds-react-flex-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-text", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-text%2F-%2F%40ciscodesignsystems%2Fcds-react-text-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-tooltip", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-tooltip%2F-%2F%40ciscodesignsystems%2Fcds-react-tooltip-1.8.7.tgz"],\
+          ["@phosphor-icons/react", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:2.1.10"],\
+          ["@types/ciscodesignsystems__cds-component-utilities", null],\
+          ["@types/ciscodesignsystems__cds-react-flex", null],\
+          ["@types/ciscodesignsystems__cds-react-text", null],\
+          ["@types/ciscodesignsystems__cds-react-tooltip", null],\
+          ["@types/react", "npm:18.3.27"],\
+          ["@types/react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.7"],\
+          ["react", "npm:18.3.1"],\
+          ["react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.1"]\
+        ],\
+        "packagePeers": [\
+          "@ciscodesignsystems/cds-component-utilities",\
+          "@ciscodesignsystems/cds-react-flex",\
+          "@ciscodesignsystems/cds-react-text",\
+          "@ciscodesignsystems/cds-react-tooltip",\
+          "@types/ciscodesignsystems__cds-component-utilities",\
+          "@types/ciscodesignsystems__cds-react-flex",\
+          "@types/ciscodesignsystems__cds-react-text",\
+          "@types/ciscodesignsystems__cds-react-tooltip",\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@ciscodesignsystems/cds-react-notification", [\
+      ["npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz", {\
+        "packageLocation": "../../../.yarn/berry/cache/@ciscodesignsystems-cds-react-notification-npm-1.8.7-4540935807-10c0.zip/node_modules/@ciscodesignsystems/cds-react-notification/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-notification", "npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/@ciscodesignsystems-cds-react-notification-virtual-0e1eb294fe/4/.yarn/berry/cache/@ciscodesignsystems-cds-react-notification-npm-1.8.7-4540935807-10c0.zip/node_modules/@ciscodesignsystems/cds-react-notification/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-notification", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-button", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-button%2F-%2F%40ciscodesignsystems%2Fcds-react-button-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-flex", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-flex%2F-%2F%40ciscodesignsystems%2Fcds-react-flex-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-icons", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-icons%2F-%2F%40ciscodesignsystems%2Fcds-react-icons-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-text", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-text%2F-%2F%40ciscodesignsystems%2Fcds-react-text-1.8.7.tgz"],\
+          ["@phosphor-icons/react", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:2.1.10"],\
+          ["@types/ciscodesignsystems__cds-component-utilities", null],\
+          ["@types/ciscodesignsystems__cds-react-button", null],\
+          ["@types/ciscodesignsystems__cds-react-flex", null],\
+          ["@types/ciscodesignsystems__cds-react-icons", null],\
+          ["@types/ciscodesignsystems__cds-react-text", null],\
+          ["@types/react", "npm:18.3.27"],\
+          ["@types/react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.7"],\
+          ["framer-motion", "virtual:ecf1104677c838bf5d3e197be30d4f97a8c019668ec392bf4478ee6ae84e86c6bef5ad8253f844c7a8b2c4d69e34793a7c2e46ef9823a9123a0b1fb632f3cfe4#npm:6.5.1"],\
+          ["react", "npm:18.3.1"],\
+          ["react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.1"]\
+        ],\
+        "packagePeers": [\
+          "@ciscodesignsystems/cds-component-utilities",\
+          "@ciscodesignsystems/cds-react-button",\
+          "@ciscodesignsystems/cds-react-flex",\
+          "@ciscodesignsystems/cds-react-icons",\
+          "@ciscodesignsystems/cds-react-text",\
+          "@types/ciscodesignsystems__cds-component-utilities",\
+          "@types/ciscodesignsystems__cds-react-button",\
+          "@types/ciscodesignsystems__cds-react-flex",\
+          "@types/ciscodesignsystems__cds-react-icons",\
+          "@types/ciscodesignsystems__cds-react-text",\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@ciscodesignsystems/cds-react-pagination", [\
       ["npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-pagination%2F-%2F%40ciscodesignsystems%2Fcds-react-pagination-1.8.7.tgz", {\
         "packageLocation": "../../../.yarn/berry/cache/@ciscodesignsystems-cds-react-pagination-npm-1.8.7-01127824db-10c0.zip/node_modules/@ciscodesignsystems/cds-react-pagination/",\
@@ -565,6 +735,37 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["@ciscodesignsystems/cds-react-popover", [\
+      ["npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-popover%2F-%2F%40ciscodesignsystems%2Fcds-react-popover-1.8.7.tgz", {\
+        "packageLocation": "../../../.yarn/berry/cache/@ciscodesignsystems-cds-react-popover-npm-1.8.7-0baacc92de-10c0.zip/node_modules/@ciscodesignsystems/cds-react-popover/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-popover", "npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-popover%2F-%2F%40ciscodesignsystems%2Fcds-react-popover-1.8.7.tgz"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-popover%2F-%2F%40ciscodesignsystems%2Fcds-react-popover-1.8.7.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/@ciscodesignsystems-cds-react-popover-virtual-f0b4fb9f1a/4/.yarn/berry/cache/@ciscodesignsystems-cds-react-popover-npm-1.8.7-0baacc92de-10c0.zip/node_modules/@ciscodesignsystems/cds-react-popover/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-popover", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-popover%2F-%2F%40ciscodesignsystems%2Fcds-react-popover-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
+          ["@floating-ui/react", "virtual:ecf1104677c838bf5d3e197be30d4f97a8c019668ec392bf4478ee6ae84e86c6bef5ad8253f844c7a8b2c4d69e34793a7c2e46ef9823a9123a0b1fb632f3cfe4#npm:0.27.4"],\
+          ["@types/ciscodesignsystems__cds-component-utilities", null],\
+          ["@types/react", "npm:18.3.27"],\
+          ["@types/react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.7"],\
+          ["react", "npm:18.3.1"],\
+          ["react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.1"]\
+        ],\
+        "packagePeers": [\
+          "@ciscodesignsystems/cds-component-utilities",\
+          "@types/ciscodesignsystems__cds-component-utilities",\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["@ciscodesignsystems/cds-react-progress-bar", [\
       ["npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-progress-bar%2F-%2F%40ciscodesignsystems%2Fcds-react-progress-bar-1.8.7.tgz", {\
         "packageLocation": "../../../.yarn/berry/cache/@ciscodesignsystems-cds-react-progress-bar-npm-1.8.7-ff1a17c4cc-10c0.zip/node_modules/@ciscodesignsystems/cds-react-progress-bar/",\
@@ -591,6 +792,37 @@ const RAW_RUNTIME_STATE =
           "@ciscodesignsystems/cds-react-icons",\
           "@types/ciscodesignsystems__cds-component-utilities",\
           "@types/ciscodesignsystems__cds-react-icons",\
+          "@types/react-dom",\
+          "@types/react",\
+          "react-dom",\
+          "react"\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["@ciscodesignsystems/cds-react-radio", [\
+      ["npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-radio%2F-%2F%40ciscodesignsystems%2Fcds-react-radio-1.8.7.tgz", {\
+        "packageLocation": "../../../.yarn/berry/cache/@ciscodesignsystems-cds-react-radio-npm-1.8.7-732ab22409-10c0.zip/node_modules/@ciscodesignsystems/cds-react-radio/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-radio", "npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-radio%2F-%2F%40ciscodesignsystems%2Fcds-react-radio-1.8.7.tgz"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-radio%2F-%2F%40ciscodesignsystems%2Fcds-react-radio-1.8.7.tgz", {\
+        "packageLocation": "./.yarn/__virtual__/@ciscodesignsystems-cds-react-radio-virtual-8ce6fdb5c0/4/.yarn/berry/cache/@ciscodesignsystems-cds-react-radio-npm-1.8.7-732ab22409-10c0.zip/node_modules/@ciscodesignsystems/cds-react-radio/",\
+        "packageDependencies": [\
+          ["@ciscodesignsystems/cds-react-radio", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-radio%2F-%2F%40ciscodesignsystems%2Fcds-react-radio-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
+          ["@types/ciscodesignsystems__cds-component-utilities", null],\
+          ["@types/react", "npm:18.3.27"],\
+          ["@types/react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.7"],\
+          ["react", "npm:18.3.1"],\
+          ["react-dom", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:18.3.1"],\
+          ["uuid", "npm:9.0.1"]\
+        ],\
+        "packagePeers": [\
+          "@ciscodesignsystems/cds-component-utilities",\
+          "@types/ciscodesignsystems__cds-component-utilities",\
           "@types/react-dom",\
           "@types/react",\
           "react-dom",\
@@ -660,15 +892,15 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@ciscodesignsystems/cds-react-select", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-select%2F-%2F%40ciscodesignsystems%2Fcds-react-select-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
-          ["@ciscodesignsystems/cds-react-breadcrumb", null],\
+          ["@ciscodesignsystems/cds-react-breadcrumb", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-breadcrumb%2F-%2F%40ciscodesignsystems%2Fcds-react-breadcrumb-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-button", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-button%2F-%2F%40ciscodesignsystems%2Fcds-react-button-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-checkbox", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-checkbox%2F-%2F%40ciscodesignsystems%2Fcds-react-checkbox-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-empty-state", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-empty-state%2F-%2F%40ciscodesignsystems%2Fcds-react-empty-state-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-flex", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-flex%2F-%2F%40ciscodesignsystems%2Fcds-react-flex-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-icons", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-icons%2F-%2F%40ciscodesignsystems%2Fcds-react-icons-1.8.7.tgz"],\
-          ["@ciscodesignsystems/cds-react-label", null],\
-          ["@ciscodesignsystems/cds-react-notification", null],\
-          ["@ciscodesignsystems/cds-react-popover", null],\
+          ["@ciscodesignsystems/cds-react-label", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-notification", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-popover", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-popover%2F-%2F%40ciscodesignsystems%2Fcds-react-popover-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-spinner", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-spinner%2F-%2F%40ciscodesignsystems%2Fcds-react-spinner-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-tooltip", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-tooltip%2F-%2F%40ciscodesignsystems%2Fcds-react-tooltip-1.8.7.tgz"],\
           ["@floating-ui/react", "virtual:ecf1104677c838bf5d3e197be30d4f97a8c019668ec392bf4478ee6ae84e86c6bef5ad8253f844c7a8b2c4d69e34793a7c2e46ef9823a9123a0b1fb632f3cfe4#npm:0.27.4"],\
@@ -816,7 +1048,7 @@ const RAW_RUNTIME_STATE =
           ["@ciscodesignsystems/cds-react-heading", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-heading%2F-%2F%40ciscodesignsystems%2Fcds-react-heading-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-icons", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-icons%2F-%2F%40ciscodesignsystems%2Fcds-react-icons-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-link", null],\
-          ["@ciscodesignsystems/cds-react-radio", null],\
+          ["@ciscodesignsystems/cds-react-radio", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-radio%2F-%2F%40ciscodesignsystems%2Fcds-react-radio-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-select", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-select%2F-%2F%40ciscodesignsystems%2Fcds-react-select-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-skeleton", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-skeleton%2F-%2F%40ciscodesignsystems%2Fcds-react-skeleton-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-tag", null],\
@@ -953,7 +1185,7 @@ const RAW_RUNTIME_STATE =
           ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-button", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-button%2F-%2F%40ciscodesignsystems%2Fcds-react-button-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-flex", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-flex%2F-%2F%40ciscodesignsystems%2Fcds-react-flex-1.8.7.tgz"],\
-          ["@ciscodesignsystems/cds-react-label", null],\
+          ["@ciscodesignsystems/cds-react-label", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-text", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-text%2F-%2F%40ciscodesignsystems%2Fcds-react-text-1.8.7.tgz"],\
           ["@phosphor-icons/react", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:2.1.10"],\
           ["@types/ciscodesignsystems__cds-component-types", null],\
@@ -1006,7 +1238,7 @@ const RAW_RUNTIME_STATE =
           ["@ciscodesignsystems/cds-react-textarea", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-textarea%2F-%2F%40ciscodesignsystems%2Fcds-react-textarea-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-flex", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-flex%2F-%2F%40ciscodesignsystems%2Fcds-react-flex-1.8.7.tgz"],\
-          ["@ciscodesignsystems/cds-react-notification", null],\
+          ["@ciscodesignsystems/cds-react-notification", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-tooltip", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-tooltip%2F-%2F%40ciscodesignsystems%2Fcds-react-tooltip-1.8.7.tgz"],\
           ["@phosphor-icons/react", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:2.1.10"],\
           ["@types/ciscodesignsystems__cds-component-utilities", null],\
@@ -1074,7 +1306,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["@ciscodesignsystems/cds-react-tooltip", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-tooltip%2F-%2F%40ciscodesignsystems%2Fcds-react-tooltip-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
-          ["@ciscodesignsystems/cds-react-popover", null],\
+          ["@ciscodesignsystems/cds-react-popover", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-popover%2F-%2F%40ciscodesignsystems%2Fcds-react-popover-1.8.7.tgz"],\
           ["@types/ciscodesignsystems__cds-component-utilities", null],\
           ["@types/ciscodesignsystems__cds-react-popover", null],\
           ["@types/react", "npm:18.3.27"],\
@@ -5053,7 +5285,9 @@ const RAW_RUNTIME_STATE =
           ["@ciscodesignsystems/cds-component-types", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-types%2F-%2F%40ciscodesignsystems%2Fcds-component-types-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-component-utilities", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-component-utilities%2F-%2F%40ciscodesignsystems%2Fcds-component-utilities-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-magnetic-theme-web", "npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-magnetic-theme-web%2F-%2F%40ciscodesignsystems%2Fcds-magnetic-theme-web-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-breadcrumb", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-breadcrumb%2F-%2F%40ciscodesignsystems%2Fcds-react-breadcrumb-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-button", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-button%2F-%2F%40ciscodesignsystems%2Fcds-react-button-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-card", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-card%2F-%2F%40ciscodesignsystems%2Fcds-react-card-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-checkbox", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-checkbox%2F-%2F%40ciscodesignsystems%2Fcds-react-checkbox-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-divider", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-divider%2F-%2F%40ciscodesignsystems%2Fcds-react-divider-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-drawer", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-drawer%2F-%2F%40ciscodesignsystems%2Fcds-react-drawer-1.8.7.tgz"],\
@@ -5063,8 +5297,12 @@ const RAW_RUNTIME_STATE =
           ["@ciscodesignsystems/cds-react-flex", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-flex%2F-%2F%40ciscodesignsystems%2Fcds-react-flex-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-heading", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-heading%2F-%2F%40ciscodesignsystems%2Fcds-react-heading-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-icons", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-icons%2F-%2F%40ciscodesignsystems%2Fcds-react-icons-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-label", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-label%2F-%2F%40ciscodesignsystems%2Fcds-react-label-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-notification", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-notification%2F-%2F%40ciscodesignsystems%2Fcds-react-notification-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-pagination", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-pagination%2F-%2F%40ciscodesignsystems%2Fcds-react-pagination-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-popover", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-popover%2F-%2F%40ciscodesignsystems%2Fcds-react-popover-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-progress-bar", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-progress-bar%2F-%2F%40ciscodesignsystems%2Fcds-react-progress-bar-1.8.7.tgz"],\
+          ["@ciscodesignsystems/cds-react-radio", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-radio%2F-%2F%40ciscodesignsystems%2Fcds-react-radio-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-search", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-search%2F-%2F%40ciscodesignsystems%2Fcds-react-search-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-select", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-select%2F-%2F%40ciscodesignsystems%2Fcds-react-select-1.8.7.tgz"],\
           ["@ciscodesignsystems/cds-react-skeleton", "virtual:9c34b4485dea41d2afaa7c9bbb90b15a34dddb6bfcc85a480754c9850a175c087be674ffbfe0f93c582aa77d8329d8de565bf31f2ad92eb14e521c22bfcb4e39#npm:1.8.7::__archiveUrl=https%3A%2F%2Fartifactory.devhub-cloud.cisco.com%2Fartifactory%2Fapi%2Fnpm%2Fmagnetic-common-npm%2F%40ciscodesignsystems%2Fcds-react-skeleton%2F-%2F%40ciscodesignsystems%2Fcds-react-skeleton-1.8.7.tgz"],\
@@ -5635,6 +5873,15 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "../../../.yarn/berry/cache/utility-types-npm-3.11.0-5b9c56f39f-10c0.zip/node_modules/utility-types/",\
         "packageDependencies": [\
           ["utility-types", "npm:3.11.0"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["uuid", [\
+      ["npm:9.0.1", {\
+        "packageLocation": "../../../.yarn/berry/cache/uuid-npm-9.0.1-39a8442bc6-10c0.zip/node_modules/uuid/",\
+        "packageDependencies": [\
+          ["uuid", "npm:9.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
