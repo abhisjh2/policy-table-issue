@@ -1,0 +1,13 @@
+node_modules/
+.cache/
+.parcel-cache/
+*.log
+.DS_Store
+
+# Yarn PnP - DO commit .pnp.cjs and .pnp.loader.mjs
+# DO NOT commit these Yarn directories:
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+
